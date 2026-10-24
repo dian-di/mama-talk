@@ -1,0 +1,4002 @@
+[
+    {
+        "en": "I see.",
+        "zh": "我明白了。"
+    },
+    {
+        "en": "I quit!",
+        "zh": "我不干了！"
+    },
+    {
+        "en": "Let go!",
+        "zh": "放手！"
+    },
+    {
+        "en": "Me too.",
+        "zh": "我也是。"
+    },
+    {
+        "en": "My god!",
+        "zh": "天哪！"
+    },
+    {
+        "en": "No way!",
+        "zh": "不行！"
+    },
+    {
+        "en": "Come on.",
+        "zh": "来吧（赶快）"
+    },
+    {
+        "en": "Hold on.",
+        "zh": "等一等。"
+    },
+    {
+        "en": "I agree.",
+        "zh": "我同意。"
+    },
+    {
+        "en": "Not bad.",
+        "zh": "还不错。"
+    },
+    {
+        "en": "Not yet.",
+        "zh": "还没。"
+    },
+    {
+        "en": "See you.",
+        "zh": "再见。"
+    },
+    {
+        "en": "Shut up!",
+        "zh": "闭嘴！"
+    },
+    {
+        "en": "So long.",
+        "zh": "再见。"
+    },
+    {
+        "en": "Why not?",
+        "zh": "好呀！（为什么不呢？）"
+    },
+    {
+        "en": "Allow me.",
+        "zh": "让我来。"
+    },
+    {
+        "en": "Be quiet!",
+        "zh": "安静点！"
+    },
+    {
+        "en": "Cheer up!",
+        "zh": "振作起来！"
+    },
+    {
+        "en": "Good job!",
+        "zh": "做得好！"
+    },
+    {
+        "en": "Have fun!",
+        "zh": "玩得开心！"
+    },
+    {
+        "en": "How much?",
+        "zh": "多少钱？"
+    },
+    {
+        "en": "I'm full.",
+        "zh": "我饱了。"
+    },
+    {
+        "en": "I'm home.",
+        "zh": "我回来了。"
+    },
+    {
+        "en": "I'm lost.",
+        "zh": "我迷路了。"
+    },
+    {
+        "en": "My treat.",
+        "zh": "我请客。"
+    },
+    {
+        "en": "So do I.",
+        "zh": "我也一样。"
+    },
+    {
+        "en": "This way.",
+        "zh": "这边请。"
+    },
+    {
+        "en": "After you.",
+        "zh": "您先。"
+    },
+    {
+        "en": "Bless you!",
+        "zh": "祝福你！"
+    },
+    {
+        "en": "Follow me.",
+        "zh": "跟我来。"
+    },
+    {
+        "en": "Forget it!",
+        "zh": "休想！（算了！）"
+    },
+    {
+        "en": "Good luck!",
+        "zh": "祝好运！"
+    },
+    {
+        "en": "I declined!",
+        "zh": "我谢绝了！"
+    },
+    {
+        "en": "I promise.",
+        "zh": "我保证。"
+    },
+    {
+        "en": "Of course!",
+        "zh": "当然了！"
+    },
+    {
+        "en": "Slow down!",
+        "zh": "慢点！"
+    },
+    {
+        "en": "Take care!",
+        "zh": "保重！"
+    },
+    {
+        "en": "They hurt.",
+        "zh": "（伤口）疼。"
+    },
+    {
+        "en": "Try again.",
+        "zh": "再试试。"
+    },
+    {
+        "en": "Watch out!",
+        "zh": "当心。"
+    },
+    {
+        "en": "What's up?",
+        "zh": "有什么事吗？"
+    },
+    {
+        "en": "Be careful!",
+        "zh": "注意！"
+    },
+    {
+        "en": "Bottoms up!",
+        "zh": "干杯（见底）！"
+    },
+    {
+        "en": "Don't move!",
+        "zh": "不许动！"
+    },
+    {
+        "en": "Guess what?",
+        "zh": "猜猜看？"
+    },
+    {
+        "en": "I doubt it.",
+        "zh": "我怀疑。"
+    },
+    {
+        "en": "I think so.",
+        "zh": "我也这么想。"
+    },
+    {
+        "en": "I'm single.",
+        "zh": "我是单身贵族。"
+    },
+    {
+        "en": "Keep it up!",
+        "zh": "坚持下去！"
+    },
+    {
+        "en": "Let me see.",
+        "zh": "让我想想。"
+    },
+    {
+        "en": "Never mind.",
+        "zh": "不要紧。"
+    },
+    {
+        "en": "No problem!",
+        "zh": "没问题！"
+    },
+    {
+        "en": "That's all!",
+        "zh": "就这样！"
+    },
+    {
+        "en": "Time is up.",
+        "zh": "时间快到了。"
+    },
+    {
+        "en": "What's new?",
+        "zh": "有什么新鲜事吗？"
+    },
+    {
+        "en": "Count me on.",
+        "zh": "算上我。"
+    },
+    {
+        "en": "Don't worry.",
+        "zh": "别担心。"
+    },
+    {
+        "en": "Feel better?",
+        "zh": "好点了吗？"
+    },
+    {
+        "en": "I love you!",
+        "zh": "我爱你！"
+    },
+    {
+        "en": "I'm his fan.",
+        "zh": "我是他的影迷。"
+    },
+    {
+        "en": "Is it yours?",
+        "zh": "这是你的吗？"
+    },
+    {
+        "en": "That's neat.",
+        "zh": "这很好。"
+    },
+    {
+        "en": "Are you sure?",
+        "zh": "你肯定吗？"
+    },
+    {
+        "en": "Do I have to?",
+        "zh": "非做不可吗？"
+    },
+    {
+        "en": "He is my age.",
+        "zh": "他和我同岁。"
+    },
+    {
+        "en": "Here you are.",
+        "zh": "给你。"
+    },
+    {
+        "en": "No one knows.",
+        "zh": "没有人知道。"
+    },
+    {
+        "en": "Take it easy.",
+        "zh": "别紧张。"
+    },
+    {
+        "en": "What a pity!",
+        "zh": "太遗憾了！"
+    },
+    {
+        "en": "Anything else?",
+        "zh": "还有别的吗？"
+    },
+    {
+        "en": "To be careful!",
+        "zh": "一定要小心！"
+    },
+    {
+        "en": "Could you do me a favor?",
+        "zh": "你能帮我个忙吗？"
+    },
+    {
+        "en": "Help yourself.",
+        "zh": "别客气。"
+    },
+    {
+        "en": "I'm on a diet.",
+        "zh": "我在节食。"
+    },
+    {
+        "en": "Keep in touch.",
+        "zh": "保持联络。"
+    },
+    {
+        "en": "Time is money.",
+        "zh": "时间就是金钱。"
+    },
+    {
+        "en": "Who's calling?",
+        "zh": "是哪一位？"
+    },
+    {
+        "en": "You did right.",
+        "zh": "你做得对。"
+    },
+    {
+        "en": "You set me up!",
+        "zh": "你出卖我！"
+    },
+    {
+        "en": "Can I help you?",
+        "zh": "我能帮你吗？"
+    },
+    {
+        "en": "Enjoy yourself!",
+        "zh": "祝你玩得开心！"
+    },
+    {
+        "en": "Excuse me, sir.",
+        "zh": "先生，对不起。"
+    },
+    {
+        "en": "Give me a hand!",
+        "zh": "帮帮我！"
+    },
+    {
+        "en": "How's it going?",
+        "zh": "怎么样？"
+    },
+    {
+        "en": "I have no idea.",
+        "zh": "我没有头绪。"
+    },
+    {
+        "en": "I just made it!",
+        "zh": "我做到了！"
+    },
+    {
+        "en": "I'll see to it.",
+        "zh": "我会留意的。"
+    },
+    {
+        "en": "I'm in a hurry!",
+        "zh": "我在赶时间！"
+    },
+    {
+        "en": "It's her field.",
+        "zh": "这是她的本行。"
+    },
+    {
+        "en": "It's up to you.",
+        "zh": "由你决定。"
+    },
+    {
+        "en": "Just wonderful!",
+        "zh": "简直太棒了！"
+    },
+    {
+        "en": "What about you?",
+        "zh": "你呢？"
+    },
+    {
+        "en": "You owe me one.",
+        "zh": "你欠我一个人情。"
+    },
+    {
+        "en": "You're welcome.",
+        "zh": "不客气。"
+    },
+    {
+        "en": "Any day will do.",
+        "zh": "任何一天都可以。"
+    },
+    {
+        "en": "Are you kidding?",
+        "zh": "你在开玩笑吧！"
+    },
+    {
+        "en": "Congratulations!",
+        "zh": "祝贺你！"
+    },
+    {
+        "en": "I can't help it.",
+        "zh": "我情不自禁。"
+    },
+    {
+        "en": "I don't mean it.",
+        "zh": "我不是故意的。"
+    },
+    {
+        "en": "I'll fix you up.",
+        "zh": "我会帮你打点的。"
+    },
+    {
+        "en": "It sounds great!",
+        "zh": "听起来很不错！"
+    },
+    {
+        "en": "It's a fine day.",
+        "zh": "今天是个好天。"
+    },
+    {
+        "en": "So far, so good.",
+        "zh": "目前还不错。"
+    },
+    {
+        "en": "What time is it?",
+        "zh": "几点了？"
+    },
+    {
+        "en": "You can make it!",
+        "zh": "你能做到！"
+    },
+    {
+        "en": "Control yourself!",
+        "zh": "克制一下！"
+    },
+    {
+        "en": "He came by train.",
+        "zh": "他乘火车来。"
+    },
+    {
+        "en": "He is ill in bed.",
+        "zh": "他卧病在床。"
+    },
+    {
+        "en": "He lacks courage.",
+        "zh": "他缺乏勇气。"
+    },
+    {
+        "en": "How's everything?",
+        "zh": "一切还好吧？"
+    },
+    {
+        "en": "I have no choice.",
+        "zh": "我别无选择。"
+    },
+    {
+        "en": "I like ice-cream.",
+        "zh": "我喜欢吃冰淇淋。"
+    },
+    {
+        "en": "I love this game.",
+        "zh": "我钟爱这项运动。"
+    },
+    {
+        "en": "I'll try my best.",
+        "zh": "我尽力而为。"
+    },
+    {
+        "en": "I'm on your side.",
+        "zh": "我全力支持你。"
+    },
+    {
+        "en": "Long time no see!",
+        "zh": "好久不见！"
+    },
+    {
+        "en": "No pain, no gain.",
+        "zh": "不劳无获。"
+    },
+    {
+        "en": "Well, it depends.",
+        "zh": "噢，这得看情况。"
+    },
+    {
+        "en": "We're all for it.",
+        "zh": "我们全都同意。"
+    },
+    {
+        "en": "What a good deal!",
+        "zh": "真便宜！"
+    },
+    {
+        "en": "What should I do?",
+        "zh": "我该怎么办？"
+    },
+    {
+        "en": "You asked for it!",
+        "zh": "你自讨苦吃！"
+    },
+    {
+        "en": "You have my word.",
+        "zh": "我保证。"
+    },
+    {
+        "en": "Believe it or not!",
+        "zh": "信不信由你！"
+    },
+    {
+        "en": "Don't count on me.",
+        "zh": "别指望我。"
+    },
+    {
+        "en": "Don't fall for it!",
+        "zh": "别上当！"
+    },
+    {
+        "en": "Don't let me down.",
+        "zh": "别让我失望。"
+    },
+    {
+        "en": "Easy come easy go.",
+        "zh": "来得容易，去得快。"
+    },
+    {
+        "en": "I beg your pardon.",
+        "zh": "请你原谅。"
+    },
+    {
+        "en": "Your hand feels cold.",
+        "zh": "你的手摸起来很冷。"
+    },
+    {
+        "en": "I'll be back soon.",
+        "zh": "我马上回来。"
+    },
+    {
+        "en": "I'll check it out.",
+        "zh": "我去查查看。"
+    },
+    {
+        "en": "It's a long story.",
+        "zh": "说来话长。"
+    },
+    {
+        "en": "It's Sunday today.",
+        "zh": "今天是星期天。"
+    },
+    {
+        "en": "Just wait and see!",
+        "zh": "等着瞧！"
+    },
+    {
+        "en": "Make up your mind.",
+        "zh": "做个决定吧。"
+    },
+    {
+        "en": "That's all I need.",
+        "zh": "我就要这些。"
+    },
+    {
+        "en": "The view is great.",
+        "zh": "景色多么漂亮！"
+    },
+    {
+        "en": "The wall has ears.",
+        "zh": "隔墙有耳。"
+    },
+    {
+        "en": "There comes a bus.",
+        "zh": "汽车来了。"
+    },
+    {
+        "en": "What day is today?",
+        "zh": "今天星期几？"
+    },
+    {
+        "en": "What do you think?",
+        "zh": "你怎么认为？"
+    },
+    {
+        "en": "Who told you that?",
+        "zh": "谁告诉你的？"
+    },
+    {
+        "en": "Who's kicking off?",
+        "zh": "现在是谁在开球？"
+    },
+    {
+        "en": "Yes, I suppose so.",
+        "zh": "是的，我也这么认为。"
+    },
+    {
+        "en": "You can't miss it.",
+        "zh": "你一定能找到的。"
+    },
+    {
+        "en": "Any messages for me?",
+        "zh": "有我的留言吗？"
+    },
+    {
+        "en": "Don't be so modest.",
+        "zh": "别谦虚了。"
+    },
+    {
+        "en": "Don't give me that!",
+        "zh": "少来这套！"
+    },
+    {
+        "en": "He is a smart boy.",
+        "zh": "他是个小机灵鬼。"
+    },
+    {
+        "en": "He is just a child.",
+        "zh": "他只是个孩子。"
+    },
+    {
+        "en": "I can't follow you.",
+        "zh": "我不懂你说的。"
+    },
+    {
+        "en": "I felt sort of ill.",
+        "zh": "我感觉有点不适。"
+    },
+    {
+        "en": "I have a good idea!",
+        "zh": "我有一个好主意。"
+    },
+    {
+        "en": "It is growing cool.",
+        "zh": "天气渐渐凉爽起来。"
+    },
+    {
+        "en": "It seems all right.",
+        "zh": "看来这没问题。"
+    },
+    {
+        "en": "It's going too far.",
+        "zh": "太离谱了。"
+    },
+    {
+        "en": "May I use your pen?",
+        "zh": "我可以用你的笔吗？"
+    },
+    {
+        "en": "She had a bad cold.",
+        "zh": "她患了重感冒。"
+    },
+    {
+        "en": "That's a good idea.",
+        "zh": "这个主意真不错。"
+    },
+    {
+        "en": "The answer is zero.",
+        "zh": "白忙了。"
+    },
+    {
+        "en": "What does she like?",
+        "zh": "她喜欢什么？"
+    },
+    {
+        "en": "As soon as possible!",
+        "zh": "越快越好！"
+    },
+    {
+        "en": "He can hardly speak.",
+        "zh": "他几乎说不出话来。"
+    },
+    {
+        "en": "He always talks big.",
+        "zh": "他总是吹牛。"
+    },
+    {
+        "en": "He won an election.",
+        "zh": "他在选举中获胜。"
+    },
+    {
+        "en": "I am a football fan.",
+        "zh": "我是个足球迷。"
+    },
+    {
+        "en": "If only I could fly.",
+        "zh": "要是我能飞就好了。"
+    },
+    {
+        "en": "I'll be right there.",
+        "zh": "我马上就到。"
+    },
+    {
+        "en": "I'll see you at six.",
+        "zh": "我六点钟见你。"
+    },
+    {
+        "en": "Is it true or false?",
+        "zh": "这是对的还是错的？"
+    },
+    {
+        "en": "Just read it for me.",
+        "zh": "就读给我听好了。"
+    },
+    {
+        "en": "Knowledge is power.",
+        "zh": "知识就是力量。"
+    },
+    {
+        "en": "Move out of my way!",
+        "zh": "让开！"
+    },
+    {
+        "en": "Time is running out.",
+        "zh": "没时间了。"
+    },
+    {
+        "en": "We are good friends.",
+        "zh": "我们是好朋友。"
+    },
+    {
+        "en": "What's your problem?",
+        "zh": "你怎么了？"
+    },
+    {
+        "en": "You did fairly well!",
+        "zh": "你干得相当不错！"
+    },
+    {
+        "en": "Clothes make men.",
+        "zh": "人靠衣装。"
+    },
+    {
+        "en": "Did you miss the bus?",
+        "zh": "你错过公共汽车了？"
+    },
+    {
+        "en": "Don't lose your head.",
+        "zh": "不要惊慌失措。"
+    },
+    {
+        "en": "He can't take a joke.",
+        "zh": "他开不得玩笑。"
+    },
+    {
+        "en": "He owes my uncle $100.",
+        "zh": "他欠我叔叔100美元。"
+    },
+    {
+        "en": "How are things going?",
+        "zh": "事情进展得怎样？"
+    },
+    {
+        "en": "How are you lately?",
+        "zh": "你最近怎么样？"
+    },
+    {
+        "en": "I know all about it.",
+        "zh": "我知道有关它的一切。"
+    },
+    {
+        "en": "It really takes time.",
+        "zh": "这样太耽误时间了。"
+    },
+    {
+        "en": "It's against the law.",
+        "zh": "这是违法的。"
+    },
+    {
+        "en": "Love me, love my dog.",
+        "zh": "（谚语）爱屋及乌。"
+    },
+    {
+        "en": "My mouth is watering.",
+        "zh": "我要流口水了。"
+    },
+    {
+        "en": "Speak louder, please.",
+        "zh": "说话请大声点儿。"
+    },
+    {
+        "en": "This boy has no job.",
+        "zh": "这个男孩没有工作。"
+    },
+    {
+        "en": "This house is my own.",
+        "zh": "这所房子是我自己的。"
+    },
+    {
+        "en": "What happened to you?",
+        "zh": "你怎么了？"
+    },
+    {
+        "en": "You are just on time.",
+        "zh": "你刚好准时。"
+    },
+    {
+        "en": "You need to workout.",
+        "zh": "你需要去运动锻炼一下。"
+    },
+    {
+        "en": "I beg your pardon?",
+        "zh": "请您再说一遍？（我没有听清？）"
+    },
+    {
+        "en": "Don't be so childish.",
+        "zh": "别这么孩子气。"
+    },
+    {
+        "en": "Don't trust the chance!",
+        "zh": "不要碰运气。"
+    },
+    {
+        "en": "Fasten your seat belt.",
+        "zh": "系好你的安全带。"
+    },
+    {
+        "en": "He has a large income.",
+        "zh": "他有很高的收入。"
+    },
+    {
+        "en": "He looks very healthy.",
+        "zh": "他看来很健康。"
+    },
+    {
+        "en": "He paused for a reply.",
+        "zh": "他停下来等着回答。"
+    },
+    {
+        "en": "He repaired his house.",
+        "zh": "他修理了他的房子。"
+    },
+    {
+        "en": "He suggested a picnic.",
+        "zh": "他建议搞一次野餐。"
+    },
+    {
+        "en": "Here's a gift for you.",
+        "zh": "这里有个礼物送给你。"
+    },
+    {
+        "en": "How much does it cost?",
+        "zh": "多少钱？"
+    },
+    {
+        "en": "I caught the last bus.",
+        "zh": "我赶上了最后一班车。"
+    },
+    {
+        "en": "I could hardly speak.",
+        "zh": "我简直说不出话来。"
+    },
+    {
+        "en": "I'll have to try that.",
+        "zh": "我得试试这么做。"
+    },
+    {
+        "en": "I'm very proud of you.",
+        "zh": "我为你感到非常骄傲。"
+    },
+    {
+        "en": "It doesn't make sense.",
+        "zh": "这没有意义（不合常理）。"
+    },
+    {
+        "en": "Make yourself at home.",
+        "zh": "请不要拘礼。"
+    },
+    {
+        "en": "My car needs washing.",
+        "zh": "我的车需要洗一洗。"
+    },
+    {
+        "en": "None of your business!",
+        "zh": "与你无关！"
+    },
+    {
+        "en": "Not a sound was heard.",
+        "zh": "一点声音也没有。"
+    },
+    {
+        "en": "That's always the case.",
+        "zh": "习以为常了。"
+    },
+    {
+        "en": "The road divides here.",
+        "zh": "这条路在这里分岔。"
+    },
+    {
+        "en": "Those are watermelons.",
+        "zh": "那些是西瓜。"
+    },
+    {
+        "en": "What a nice day it is!",
+        "zh": "今天天气真好！"
+    },
+    {
+        "en": "What's wrong with you?",
+        "zh": "你哪里不对劲？"
+    },
+    {
+        "en": "You are a chicken.",
+        "zh": "你是个胆小鬼。"
+    },
+    {
+        "en": "A lovely day, isn't it?",
+        "zh": "好天气，是吗？"
+    },
+    {
+        "en": "He is collecting money.",
+        "zh": "他在筹集资金。"
+    },
+    {
+        "en": "He was born in New York.",
+        "zh": "他出生在纽约。"
+    },
+    {
+        "en": "He was not a bit tired.",
+        "zh": "他一点也不累。"
+    },
+    {
+        "en": "I will be more careful.",
+        "zh": "我会小心一些的，"
+    },
+    {
+        "en": "I will never forget it.",
+        "zh": "我会记着的。"
+    },
+    {
+        "en": "It is just what I need.",
+        "zh": "这正是我所需要的。"
+    },
+    {
+        "en": "It rather surprised me.",
+        "zh": "那事使我颇感惊讶。"
+    },
+    {
+        "en": "Just around the corner.",
+        "zh": "就在附近。"
+    },
+    {
+        "en": "Just for entertainment.",
+        "zh": "只是为了消遣一下。"
+    },
+    {
+        "en": "Let bygones be bygones.",
+        "zh": "过去的，就让它过去吧。"
+    },
+    {
+        "en": "Mother doesn't make up.",
+        "zh": "妈妈不化妆。"
+    },
+    {
+        "en": "Oh, you are kidding me.",
+        "zh": "哦，你别拿我开玩笑了。"
+    },
+    {
+        "en": "She has been to school.",
+        "zh": "她上学去了。"
+    },
+    {
+        "en": "Skating is interesting.",
+        "zh": "滑冰很有趣。"
+    },
+    {
+        "en": "Supper is ready at six.",
+        "zh": "晚餐六点钟就好了。"
+    },
+    {
+        "en": "That's a terrific idea!",
+        "zh": "真是好主意！"
+    },
+    {
+        "en": "What horrible weather!",
+        "zh": "这鬼天气！"
+    },
+    {
+        "en": "Which would you prefer?",
+        "zh": "你要选哪个？"
+    },
+    {
+        "en": "Does she like ice-cream?",
+        "zh": "她喜欢吃冰淇淋吗？"
+    },
+    {
+        "en": "First come, first served.",
+        "zh": "先到先得。"
+    },
+    {
+        "en": "Great minds think alike.",
+        "zh": "英雄所见略同。"
+    },
+    {
+        "en": "He has a sense of humor.",
+        "zh": "他有幽默感。"
+    },
+    {
+        "en": "He is acting as an old man.",
+        "zh": "他正扮演一个老人。"
+    },
+    {
+        "en": "He is looking for a job.",
+        "zh": "他正在找工作。"
+    },
+    {
+        "en": "He doesn't care about me.",
+        "zh": "他并不在乎我。"
+    },
+    {
+        "en": "I develop films myself.",
+        "zh": "我自己冲洗照片。"
+    },
+    {
+        "en": "I felt no regret for it.",
+        "zh": "对这件事我不觉得后悔。"
+    },
+    {
+        "en": "I get up at six o'clock.",
+        "zh": "我六点起床。"
+    },
+    {
+        "en": "I met the boss himself.",
+        "zh": "我见到了老板本人。"
+    },
+    {
+        "en": "I owe you for my dinner.",
+        "zh": "我欠你晚餐的钱。"
+    },
+    {
+        "en": "I really enjoyed myself.",
+        "zh": "我玩得很开心。"
+    },
+    {
+        "en": "I'm fed up with my work!",
+        "zh": "我对工作烦死了！"
+    },
+    {
+        "en": "It's no use complaining.",
+        "zh": "发牢骚没什么用。"
+    },
+    {
+        "en": "She's under the weather.",
+        "zh": "她心情不好。"
+    },
+    {
+        "en": "The child sobbed sadly.",
+        "zh": "小孩伤心地抽泣着。"
+    },
+    {
+        "en": "The rumor had no basis.",
+        "zh": "那谣言没有根据。"
+    },
+    {
+        "en": "They praised him highly.",
+        "zh": "他们大大地表扬了他。"
+    },
+    {
+        "en": "Winter is a cold season.",
+        "zh": "冬天是一个寒冷的季节。"
+    },
+    {
+        "en": "You can call me any time.",
+        "zh": "你可以随时打电话给我。"
+    },
+    {
+        "en": "15 divided by 3 equals 5.",
+        "zh": "15除以3等于5。"
+    },
+    {
+        "en": "All for one, one for all.",
+        "zh": "我为人人，人人为我。"
+    },
+    {
+        "en": "East, west, home is the best.",
+        "zh": "金窝，银窝，不如自己的草窝。"
+    },
+    {
+        "en": "He grasped both my hands.",
+        "zh": "他紧握住我的双手。"
+    },
+    {
+        "en": "He is physically mature.",
+        "zh": "他身体己发育成熟。"
+    },
+    {
+        "en": "I am so sorry about this.",
+        "zh": "对此我非常抱歉（遗憾）。"
+    },
+    {
+        "en": "I can't afford a new car.",
+        "zh": "我买不起一部新车。"
+    },
+    {
+        "en": "I do want to see him now.",
+        "zh": "我现在确实很想去见他。"
+    },
+    {
+        "en": "I have the right to know.",
+        "zh": "我有权知道。"
+    },
+    {
+        "en": "I heard someone laughing.",
+        "zh": "我听见有人在笑。"
+    },
+    {
+        "en": "I suppose you dance a lot.",
+        "zh": "我想你常常跳舞吧。"
+    },
+    {
+        "en": "I walked across the park.",
+        "zh": "我穿过了公园。"
+    },
+    {
+        "en": "I'll just play it by ear.",
+        "zh": "我到时随机应变。"
+    },
+    {
+        "en": "I'm not sure I can do it.",
+        "zh": "恐怕这事我干不了。"
+    },
+    {
+        "en": "I'm not used to drinking.",
+        "zh": "我不习惯喝酒。"
+    },
+    {
+        "en": "Is the cut still painful?",
+        "zh": "伤口还在痛吗？"
+    },
+    {
+        "en": "It's too good to be true!",
+        "zh": "好得难以置信。"
+    },
+    {
+        "en": "Jean is a blue-eyed girl.",
+        "zh": "珍是个蓝眼睛的女孩。"
+    },
+    {
+        "en": "Let's not waste our time.",
+        "zh": "咱们别浪费时间了。"
+    },
+    {
+        "en": "May I ask some questions?",
+        "zh": "我可以问几个问题吗？"
+    },
+    {
+        "en": "Money is not everything.",
+        "zh": "金钱不是一切。"
+    },
+    {
+        "en": "Neither of the men spoke.",
+        "zh": "两个人都没说过话。"
+    },
+    {
+        "en": "Stop making such a noise.",
+        "zh": "别吵了。"
+    },
+    {
+        "en": "That makes no difference.",
+        "zh": "没什么区别。"
+    },
+    {
+        "en": "The price is reasonable.",
+        "zh": "价格还算合理。"
+    },
+    {
+        "en": "They crowned him king.",
+        "zh": "他们拥立他为国王。"
+    },
+    {
+        "en": "They're in red and white.",
+        "zh": "他们穿着红白相间的衣服。"
+    },
+    {
+        "en": "We all desire happiness.",
+        "zh": "我们都想要幸福。"
+    },
+    {
+        "en": "We just caught the plane.",
+        "zh": "我们刚好赶上了飞机。"
+    },
+    {
+        "en": "What shall we do tonight?",
+        "zh": "我们今天晚上去干点儿什么呢？"
+    },
+    {
+        "en": "What's your goal in life?",
+        "zh": "你的人生目标是什么？"
+    },
+    {
+        "en": "When was the house built?",
+        "zh": "这幢房子是什么时候建造的？"
+    },
+    {
+        "en": "Why did you stay at home?",
+        "zh": "为什么呆在家里？"
+    },
+    {
+        "en": "Would you like some help?",
+        "zh": "你需要帮忙吗？"
+    },
+    {
+        "en": "You mustn't aim too high.",
+        "zh": "你不可好高骛远。"
+    },
+    {
+        "en": "You're really killing me!",
+        "zh": "真是笑死我了！"
+    },
+    {
+        "en": "You've got a point there.",
+        "zh": "你说得挺有道理的。"
+    },
+    {
+        "en": "Being criticized is awful!",
+        "zh": "被人批评真是痛苦！"
+    },
+    {
+        "en": "Did you enter the contest?",
+        "zh": "你参加比赛了吗？"
+    },
+    {
+        "en": "Do you accept credit cards?",
+        "zh": "你们收信用卡吗？"
+    },
+    {
+        "en": "Don't cry over spilt milk.",
+        "zh": "不要做无益的后悔。"
+    },
+    {
+        "en": "Don't let chances pass by.",
+        "zh": "不要让机遇从我们身边溜走。"
+    },
+    {
+        "en": "He owned himself defeated.",
+        "zh": "他承认自己失败了。"
+    },
+    {
+        "en": "He seems a little nervous.",
+        "zh": "他显得有点紧张。"
+    },
+    {
+        "en": "He strolls about the town.",
+        "zh": "他在镇上四处遛达。"
+    },
+    {
+        "en": "Her teeth ached all night.",
+        "zh": "她牙疼了一整夜。"
+    },
+    {
+        "en": "How about a drink tonight?",
+        "zh": "今晚喝一杯怎样？"
+    },
+    {
+        "en": "I can do nothing but that.",
+        "zh": "我只会做那件事。"
+    },
+    {
+        "en": "I will get hold of you at last.",
+        "zh": "我终于找到你了。"
+    },
+    {
+        "en": "I have a surprise for you.",
+        "zh": "我有一个意想不到的东西给你看。"
+    },
+    {
+        "en": "I like all kinds of fruit.",
+        "zh": "我喜欢各种各样的水果。"
+    },
+    {
+        "en": "I saw it with my own eyes.",
+        "zh": "我亲眼所见。"
+    },
+    {
+        "en": "I will arrange everything.",
+        "zh": "我会安排一切的。"
+    },
+    {
+        "en": "I wish I knew my neighbor.",
+        "zh": "我很想认识我的邻居。"
+    },
+    {
+        "en": "I would like to check it out.",
+        "zh": "我想结帐。"
+    },
+    {
+        "en": "It has become much cooler.",
+        "zh": "天气变得凉爽多了。"
+    },
+    {
+        "en": "It's time you went to bed.",
+        "zh": "你早就该睡觉了。"
+    },
+    {
+        "en": "No spitting on the street.",
+        "zh": "禁止在大街上吐痰。"
+    },
+    {
+        "en": "She was totally exhausted.",
+        "zh": "她累垮了。"
+    },
+    {
+        "en": "Show your tickets, please.",
+        "zh": "请出示你的票。"
+    },
+    {
+        "en": "Thank you for your advice.",
+        "zh": "谢谢你的建议。"
+    },
+    {
+        "en": "That's the latest fashion.",
+        "zh": "这是最新的款式。"
+    },
+    {
+        "en": "The train arrived on time.",
+        "zh": "火车准时到达。"
+    },
+    {
+        "en": "There go the house lights.",
+        "zh": "房子的灯光灭了。"
+    },
+    {
+        "en": "They are paid by the hour.",
+        "zh": "他们按时取酬。"
+    },
+    {
+        "en": "Things are getting better.",
+        "zh": "情况正在好转。"
+    },
+    {
+        "en": "Wake me up at five thirty.",
+        "zh": "请在五点半叫醒我。"
+    },
+    {
+        "en": "We are all busy with work.",
+        "zh": "我们都忙于工作。"
+    },
+    {
+        "en": "Where do you want to meet?",
+        "zh": "你想在哪儿见面？"
+    },
+    {
+        "en": "You can get what you want.",
+        "zh": "你能得到你想要的。"
+    },
+    {
+        "en": "A barking dog doesn't bite!",
+        "zh": "吠犬不咬人。"
+    },
+    {
+        "en": "Are you free this Saturday?",
+        "zh": "你这个星期六有空吗？"
+    },
+    {
+        "en": "Be careful not to fall ill.",
+        "zh": "注意不要生病了。"
+    },
+    {
+        "en": "Being a mother is not easy.",
+        "zh": "做一个母亲是不容易的。"
+    },
+    {
+        "en": "Brevity is the soul of wit.",
+        "zh": "简洁是智慧的精华。"
+    },
+    {
+        "en": "Cancer is a deadly disease.",
+        "zh": "癌症是一种致命的疾病。"
+    },
+    {
+        "en": "Did you fight with others?",
+        "zh": "你又和别人打架了吗？"
+    },
+    {
+        "en": "Don't dream away from your time.",
+        "zh": "不要虚度光阴。"
+    },
+    {
+        "en": "Don't keep me waiting long.",
+        "zh": "不要让我等得太久。"
+    },
+    {
+        "en": "He has a remarkable memory.",
+        "zh": "他有惊人的记忆力。"
+    },
+    {
+        "en": "He has completed the task.",
+        "zh": "他完成了这个任务。"
+    },
+    {
+        "en": "He has quite a few friends.",
+        "zh": "他有不少的朋友。"
+    },
+    {
+        "en": "He is capable of any crime.",
+        "zh": "他什么样的坏事都能干得出来。"
+    },
+    {
+        "en": "He walks at a quick pace.",
+        "zh": "他快步走路。"
+    },
+    {
+        "en": "He was not a little tired.",
+        "zh": "他很累。"
+    },
+    {
+        "en": "His looks are always funny.",
+        "zh": "他的样子总是滑稽可笑。"
+    },
+    {
+        "en": "How about going to a movie?",
+        "zh": "去看场电影怎么样？"
+    },
+    {
+        "en": "I think I've caught a cold.",
+        "zh": "我想我得了感冒。"
+    },
+    {
+        "en": "I was taking care of Sally.",
+        "zh": "我在照顾萨莉。"
+    },
+    {
+        "en": "I wish I lived in New York.",
+        "zh": "我希望住在纽约。"
+    },
+    {
+        "en": "I'm very glad to hear that.",
+        "zh": "很高兴听你这样说。"
+    },
+    {
+        "en": "I'm your lucky fellow then.",
+        "zh": "我就是你的幸运舞伴啦！"
+    },
+    {
+        "en": "It's none of your business!",
+        "zh": "这不关你的事儿！"
+    },
+    {
+        "en": "No littering on the campus.",
+        "zh": "在校园内不准乱丢废物。"
+    },
+    {
+        "en": "She is a good-looking girl.",
+        "zh": "她是一个漂亮女孩。"
+    },
+    {
+        "en": "She mended the broken doll.",
+        "zh": "她修补了破了的洋娃娃。"
+    },
+    {
+        "en": "So I just take what I want.",
+        "zh": "那么我只拿我所需要的东西。"
+    },
+    {
+        "en": "Spring is a pretty season.",
+        "zh": "春天是一个好季节。"
+    },
+    {
+        "en": "The figure seems all right.",
+        "zh": "数目看起来是对的。"
+    },
+    {
+        "en": "The stars are too far away.",
+        "zh": "星星太遥远了。"
+    },
+    {
+        "en": "The whole world knows that.",
+        "zh": "全世界都知道。"
+    },
+    {
+        "en": "Tomorrow will be a holiday.",
+        "zh": "明天放假。"
+    },
+    {
+        "en": "We walked on the garden path.",
+        "zh": "我们走在花园小径上。"
+    },
+    {
+        "en": "What you need is just rest.",
+        "zh": "你需要的就是休息。"
+    },
+    {
+        "en": "What are your favorite steps?",
+        "zh": "你最喜欢跳什么舞？"
+    },
+    {
+        "en": "You'd better let her alone.",
+        "zh": "你们最好是让她一个人呆会儿。"
+    },
+    {
+        "en": "A lost chance never returns.",
+        "zh": "错过的机会永不再来。"
+    },
+    {
+        "en": "Don't let this get you down.",
+        "zh": "不要为此灰心丧气。"
+    },
+    {
+        "en": "He shot the lion with a gun.",
+        "zh": "他用枪把狮子打死了。"
+    },
+    {
+        "en": "I don't think you are right.",
+        "zh": "我认为你是不对的。"
+    },
+    {
+        "en": "I have never seen this movie.",
+        "zh": "我从未看过那部电影。"
+    },
+    {
+        "en": "I haven't seen you for ages.",
+        "zh": "我好久没见到你了。"
+    },
+    {
+        "en": "I was alone, but not lonely.",
+        "zh": "我独自一人，但并不觉得寂寞。"
+    },
+    {
+        "en": "I went there three days ago.",
+        "zh": "我三天前去过那儿。"
+    },
+    {
+        "en": "It's a friendly competition.",
+        "zh": "这是一场友谊赛。"
+    },
+    {
+        "en": "It's very thoughtful of you.",
+        "zh": "你想得真周到。"
+    },
+    {
+        "en": "May I speak to Lora, please?",
+        "zh": "我能和劳拉说话吗？"
+    },
+    {
+        "en": "Mr. Wang is fixing his bike.",
+        "zh": "王先生在修他的自行车。"
+    },
+    {
+        "en": "My brother is seeking a job.",
+        "zh": "我弟弟正在找工作。"
+    },
+    {
+        "en": "Nancy will retire next year.",
+        "zh": "南希明年就退休了。"
+    },
+    {
+        "en": "Neither you nor he is wrong.",
+        "zh": "你没错，他也没错。"
+    },
+    {
+        "en": "Opportunity knocks but once.",
+        "zh": "机不可失，时不再来。"
+    },
+    {
+        "en": "She dressed herself hastily.",
+        "zh": "她匆忙穿上衣服。"
+    },
+    {
+        "en": "She hired a car by the hour.",
+        "zh": "她租了一辆按钟点计费的汽车。"
+    },
+    {
+        "en": "Someone is ringing the bell.",
+        "zh": "有人在按门铃。"
+    },
+    {
+        "en": "The Smiths are my neighbors.",
+        "zh": "史密斯一家是我的邻居。"
+    },
+    {
+        "en": "These shoes don't fit right.",
+        "zh": "这双鞋不太合适。"
+    },
+    {
+        "en": "This is only the first half.",
+        "zh": "这才是上半场呢。"
+    },
+    {
+        "en": "This pen doesn't write well.",
+        "zh": "这钢笔不好写。"
+    },
+    {
+        "en": "Would you like a cup of tea?",
+        "zh": "你想喝杯茶吗？"
+    },
+    {
+        "en": "You really look sharp today.",
+        "zh": "你今天真漂亮。"
+    },
+    {
+        "en": "Another cat came to my house.",
+        "zh": "又有一只猫来到我家了。"
+    },
+    {
+        "en": "Check your answers with mine.",
+        "zh": "把你的答案跟我的核对一下。"
+    },
+    {
+        "en": "Don't keep the truth from me.",
+        "zh": "别瞒着我事实真相。"
+    },
+    {
+        "en": "Everything has its beginning.",
+        "zh": "凡事都有开端。"
+    },
+    {
+        "en": "He came to the point at once.",
+        "zh": "他一下子就说到了点子上。"
+    },
+    {
+        "en": "He fell behind with his work.",
+        "zh": "他工作落后了。"
+    },
+    {
+        "en": "He is the happiest man alive.",
+        "zh": "他是活着的最幸福的人。"
+    },
+    {
+        "en": "He neither smokes nor drinks.",
+        "zh": "他既不抽烟也不喝酒。"
+    },
+    {
+        "en": "He ran his horse up the hill.",
+        "zh": "他策马跑上小山。"
+    },
+    {
+        "en": "He reminds me of his brother.",
+        "zh": "他使我想起了他的弟弟。"
+    },
+    {
+        "en": "He was efficient at his work.",
+        "zh": "他工作效率高。"
+    },
+    {
+        "en": "He will do anything but work.",
+        "zh": "只要不是干活，他干什么都行。"
+    },
+    {
+        "en": "His father runs a restaurant.",
+        "zh": "他的父亲经营一家餐馆。"
+    },
+    {
+        "en": "I have something to tell you.",
+        "zh": "我有事要告诉你。"
+    },
+    {
+        "en": "I smelled the smell of cooking.",
+        "zh": "我闻到了烧菜做饭的味道。"
+    },
+    {
+        "en": "I want to see the film again.",
+        "zh": "我真想再看一遍。"
+    },
+    {
+        "en": "I've got too much work to do.",
+        "zh": "我要做的工作太多了。"
+    },
+    {
+        "en": "Let's go for a walk, shall we?",
+        "zh": "咱们出去走走，好吗？"
+    },
+    {
+        "en": "Please let me check the bill.",
+        "zh": "请让我核对一下帐单。"
+    },
+    {
+        "en": "Plenty of sleep is healthy.",
+        "zh": "充足的睡眠有益于健康。"
+    },
+    {
+        "en": "The sun comes up in the east.",
+        "zh": "太阳从东方升起。"
+    },
+    {
+        "en": "This is because we feel pain.",
+        "zh": "这是因为我们能感到疼痛。"
+    },
+    {
+        "en": "What do you desire me to do?",
+        "zh": "你想要我做什么？"
+    },
+    {
+        "en": "What you said was quite true.",
+        "zh": "你所说的完全符合事实。"
+    },
+    {
+        "en": "You can either stay or leave.",
+        "zh": "你或者留下或者离开。"
+    },
+    {
+        "en": "Your life is your own affair.",
+        "zh": "你的生活是你自己的事。"
+    },
+    {
+        "en": "All that glitters is not gold.",
+        "zh": "发闪光的不全是黄金。"
+    },
+    {
+        "en": "Are you going to have a party?",
+        "zh": "你要举行聚会吗？"
+    },
+    {
+        "en": "Aren't you concerned about it?",
+        "zh": "难道你不担心吗？"
+    },
+    {
+        "en": "Don't forget to keep in touch.",
+        "zh": "别忘了保持联系。"
+    },
+    {
+        "en": "He broke his words once again.",
+        "zh": "他又一次违背了诺言。"
+    },
+    {
+        "en": "He is in his everyday clothes.",
+        "zh": "他穿着平常的衣服。"
+    },
+    {
+        "en": "He is taller than me by a head.",
+        "zh": "他比我高一头。"
+    },
+    {
+        "en": "He led them down the mountain.",
+        "zh": "他带他们下山。"
+    },
+    {
+        "en": "He was trained to be a lawyer.",
+        "zh": "他被培养成一名律师。"
+    },
+    {
+        "en": "I am afraid that I have to go.",
+        "zh": "我要走了。"
+    },
+    {
+        "en": "I don't have any cash with me.",
+        "zh": "我身上没带现金。"
+    },
+    {
+        "en": "I have been putting on weight.",
+        "zh": "我开始发胖了。"
+    },
+    {
+        "en": "I have just finished the book.",
+        "zh": "我刚刚读完这本书。"
+    },
+    {
+        "en": "I was late for work yesterday.",
+        "zh": "我昨天上班迟到了。"
+    },
+    {
+        "en": "It appears to be a true story.",
+        "zh": "这故事似乎是真的。"
+    },
+    {
+        "en": "I've got to start working out.",
+        "zh": "我必须开始做健身运动了。"
+    },
+    {
+        "en": "Japan is to the east of China.",
+        "zh": "日本在中国的东部。"
+    },
+    {
+        "en": "John asked Grace to marry him.",
+        "zh": "约翰向格雷斯求婚。"
+    },
+    {
+        "en": "My watch is faster than yours.",
+        "zh": "我的表比你的表快。"
+    },
+    {
+        "en": "New China was founded in 1949.",
+        "zh": "1949年新中国成立。"
+    },
+    {
+        "en": "Thanks for your flattering.",
+        "zh": "多谢你的夸奖。"
+    },
+    {
+        "en": "They charged the fault on him.",
+        "zh": "他们把过失归咎于他。"
+    },
+    {
+        "en": "This car is in good condition.",
+        "zh": "这车性能很好。"
+    },
+    {
+        "en": "This work itself is very easy.",
+        "zh": "这件工作本身很容易。"
+    },
+    {
+        "en": "Truth is the daughter of time.",
+        "zh": "时间见真理。"
+    },
+    {
+        "en": "We look forward to your visit.",
+        "zh": "期待您的光临。"
+    },
+    {
+        "en": "What do you think of this one?",
+        "zh": "您觉得这个怎么样？"
+    },
+    {
+        "en": "What's the weather like today?",
+        "zh": "今天天气怎么样？"
+    },
+    {
+        "en": "A red tie will match that suit.",
+        "zh": "红领带会配那件衣服。"
+    },
+    {
+        "en": "A wet road is usually slippery.",
+        "zh": "潮湿的路往往是滑的。"
+    },
+    {
+        "en": "Example is better than precept.",
+        "zh": "身教胜于言传。"
+    },
+    {
+        "en": "Go right back to the beginning.",
+        "zh": "直接回到起始位置。"
+    },
+    {
+        "en": "He does everything without aim.",
+        "zh": "他做事都漫无目标。"
+    },
+    {
+        "en": "He is respectful to his elders.",
+        "zh": "他对长辈很恭敬。"
+    },
+    {
+        "en": "He knows English better than I do.",
+        "zh": "他比我懂英语。"
+    },
+    {
+        "en": "He resolved to give up smoking.",
+        "zh": "他决心戒烟。"
+    },
+    {
+        "en": "His talk covered many subjects.",
+        "zh": "他的报告涉及很多课题。"
+    },
+    {
+        "en": "I fear that he drinks too much.",
+        "zh": "我担心他喝的酒太多了。"
+    },
+    {
+        "en": "I have my hair cut every month.",
+        "zh": "我每个月都理发。"
+    },
+    {
+        "en": "I want to have a part-time job.",
+        "zh": "我想有一份兼职工作。"
+    },
+    {
+        "en": "I'm sorry to have bothered you.",
+        "zh": "对不起，打扰你了。"
+    },
+    {
+        "en": "It is not as easy as you think.",
+        "zh": "这事没有你想象的那么简单。"
+    },
+    {
+        "en": "Keep your temper under control.",
+        "zh": "不要发脾气。"
+    },
+    {
+        "en": "Lying and stealing are immoral.",
+        "zh": "说谎和偷窃都是不道德的。"
+    },
+    {
+        "en": "My efforts resulted in nothing.",
+        "zh": "我的努力毫无结果。"
+    },
+    {
+        "en": "My false teeth are stuck to it.",
+        "zh": "我的假牙还在上边呢。"
+    },
+    {
+        "en": "She is a composer for the harp.",
+        "zh": "她是位写竖琴曲的作曲家"
+    },
+    {
+        "en": "Take me to the airport, please.",
+        "zh": "请送我去机场。"
+    },
+    {
+        "en": "Talking with you is a pleasure.",
+        "zh": "和你谈话很愉快"
+    },
+    {
+        "en": "The eggs are sold by the dozen.",
+        "zh": "鸡蛋按打卖。"
+    },
+    {
+        "en": "The price just covers the cost.",
+        "zh": "这个价格正好抵消成本。"
+    },
+    {
+        "en": "The sweater is of good quality.",
+        "zh": "这件毛衣质地很好。"
+    },
+    {
+        "en": "The teacher got a little angry.",
+        "zh": "老师有点生气了。"
+    },
+    {
+        "en": "Think carefully before you act.",
+        "zh": "三思而后行。"
+    },
+    {
+        "en": "Walt invented the steam engine.",
+        "zh": "瓦特发明了蒸汽机。"
+    },
+    {
+        "en": "We are divided in our opinions.",
+        "zh": "我们意见分歧。"
+    },
+    {
+        "en": "Whatever I said, he'd disagree.",
+        "zh": "不论我说什么他都不同意。"
+    },
+    {
+        "en": "Who ever comes will be welcomed.",
+        "zh": "来的人我们都欢迎。"
+    },
+    {
+        "en": "You look as if you didn't care.",
+        "zh": "你看上去好像满不在乎。"
+    },
+    {
+        "en": "You should look at it yourself.",
+        "zh": "你应该亲自看看它。"
+    },
+    {
+        "en": "Draw your chair up to the table.",
+        "zh": "把你的椅子拉到桌子旁边来。"
+    },
+    {
+        "en": "He covered himself with a quilt.",
+        "zh": "他给自己盖上一条被子。"
+    },
+    {
+        "en": "He found my lecture interesting.",
+        "zh": "他觉得我讲课有趣。"
+    },
+    {
+        "en": "He had many good friends here.",
+        "zh": "他在这儿有很多朋友。"
+    },
+    {
+        "en": "He is only about five feet high.",
+        "zh": "他大概只有五英尺高。"
+    },
+    {
+        "en": "Her family are all music lovers.",
+        "zh": "她全家人都是音乐爱好者。"
+    },
+    {
+        "en": "I am busy. How is your business?",
+        "zh": "我很忙。你的生意做得怎样？"
+    },
+    {
+        "en": "I don't think much about the movie.",
+        "zh": "我认为那电影不怎么样。"
+    },
+    {
+        "en": "I feel like eating ice-cream.",
+        "zh": "我想吃一个冰淇淋。"
+    },
+    {
+        "en": "I found him seated on the bench.",
+        "zh": "我发现他在椅子上坐着。"
+    },
+    {
+        "en": "I gave a lot of time to the old car.",
+        "zh": "我在这辆破车上花了不少时间。"
+    },
+    {
+        "en": "I lost the door key about here.",
+        "zh": "我在这附近掉了门钥匙。"
+    },
+    {
+        "en": "I'm not guessing, I really know.",
+        "zh": "我不是在猜想，我真的知道。"
+    },
+    {
+        "en": "It's time to tell her the truth.",
+        "zh": "是该告诉她真相的时候了。"
+    },
+    {
+        "en": "Let's watch TV with a candle on.",
+        "zh": "咱们点上蜡烛看电视吧。"
+    },
+    {
+        "en": "Most games cost about that much.",
+        "zh": "大部分游戏差不多都是这个价钱。"
+    },
+    {
+        "en": "My parents want me to go abroad.",
+        "zh": "我父母想让我出国。"
+    },
+    {
+        "en": "She has been collecting stamps.",
+        "zh": "她一直收集邮票。"
+    },
+    {
+        "en": "There are many stars in the sky.",
+        "zh": "天上有很多星星。"
+    },
+    {
+        "en": "We got to London this afternoon.",
+        "zh": "我们是今天下午到达伦敦的。"
+    },
+    {
+        "en": "Where there is a will, there is a way.",
+        "zh": "有志者，事竟成。"
+    },
+    {
+        "en": "What about having a pizza first?",
+        "zh": "先吃点比萨饼怎么样？"
+    },
+    {
+        "en": "You'd better look before you leap.",
+        "zh": "你最好三思而后行。"
+    },
+    {
+        "en": "You know what I'm talking about.",
+        "zh": "我想你知道我在说什么。"
+    },
+    {
+        "en": "He has been sick for three weeks.",
+        "zh": "他已经病了几周了。"
+    },
+    {
+        "en": "He inspected the car for defects.",
+        "zh": "他详细检查车子有无效障。"
+    },
+    {
+        "en": "I count you as one of my friends.",
+        "zh": "我把你算作我的一个朋友。"
+    },
+    {
+        "en": "I go to school by bike every day.",
+        "zh": "我每天骑自行车上学。"
+    },
+    {
+        "en": "I have a large collection of CDs.",
+        "zh": "我收集了很多唱片。"
+    },
+    {
+        "en": "I won't be able to see him today.",
+        "zh": "今天我不可能去看他。"
+    },
+    {
+        "en": "I'll call a taxi in case of need.",
+        "zh": "如果需要的话，我会叫出租车的。"
+    },
+    {
+        "en": "Is there any sugar in the bottle?",
+        "zh": "瓶子里还有糖吗？"
+    },
+    {
+        "en": "It's a secret between you and me.",
+        "zh": "这是你我之间的秘密。"
+    },
+    {
+        "en": "It's very kind of you to help me.",
+        "zh": "你帮助我真是太好了。"
+    },
+    {
+        "en": "Let's divide the cake into three.",
+        "zh": "我们将蛋糕分成三份吧。"
+    },
+    {
+        "en": "Patience is a mark of confidence.",
+        "zh": "耐心是自信心的一种表现。"
+    },
+    {
+        "en": "Susan is going to finish college.",
+        "zh": "苏珊将完成大学学业。"
+    },
+    {
+        "en": "That is my idea of friendship.",
+        "zh": "这是我对友谊的看法。"
+    },
+    {
+        "en": "The book you ask for is sold out.",
+        "zh": "你要的那本书已经售完了。"
+    },
+    {
+        "en": "The boy was too nervous to speak.",
+        "zh": "那男孩紧张得说不出话来。"
+    },
+    {
+        "en": "The play may begin at any moment.",
+        "zh": "戏随时都有可能开始。"
+    },
+    {
+        "en": "The salve will heal slight burns.",
+        "zh": "这种药膏能治疗轻微烧伤。"
+    },
+    {
+        "en": "The sea sparkled in the sunlight.",
+        "zh": "阳光下，大海波光粼粼。"
+    },
+    {
+        "en": "The teacher tested us in English.",
+        "zh": "老师用英文考我们。"
+    },
+    {
+        "en": "There is a bridge over the river.",
+        "zh": "河上有一座桥。"
+    },
+    {
+        "en": "They rode their respective bikes.",
+        "zh": "他们各自骑着自己的自行车。"
+    },
+    {
+        "en": "They will arrive in half an hour.",
+        "zh": "他们将于半小时之内到达。"
+    },
+    {
+        "en": "Time is more valuable than money.",
+        "zh": "时间比金钱宝贵。"
+    },
+    {
+        "en": "We are all in favor of this plan.",
+        "zh": "我们都赞同这项计划。"
+    },
+    {
+        "en": "We reached London this afternoon.",
+        "zh": "我们是今天下午到达伦敦的。"
+    },
+    {
+        "en": "We two finished a bottle of wine.",
+        "zh": "我俩喝完了一瓶酒。"
+    },
+    {
+        "en": "What a lovely little girl she is!",
+        "zh": "她是一个多么可爱的小女孩耶！"
+    },
+    {
+        "en": "Will you pick me up at my place?",
+        "zh": "你能到我的住处来接我吗？"
+    },
+    {
+        "en": "You may choose whatever you like.",
+        "zh": "你可以喜欢什么就选什么。"
+    },
+    {
+        "en": "You're suffering from an allergy?",
+        "zh": "你过敏吗？"
+    },
+    {
+        "en": "Beyond all questions, you are right.",
+        "zh": "毫无疑问，你是对的。"
+    },
+    {
+        "en": "But I plan to weed the yard today.",
+        "zh": "我计划今天除院子里的草。"
+    },
+    {
+        "en": "But who will do all the housework?",
+        "zh": "但是这些家务活谁来做呢？"
+    },
+    {
+        "en": "Close the door after you, please.",
+        "zh": "请随手关门。"
+    },
+    {
+        "en": "Come to see me whenever you like.",
+        "zh": "你可以随时来见我。"
+    },
+    {
+        "en": "Don't pull the chairs about, boys!",
+        "zh": "不要把椅子拖来拖去，孩子们！"
+    },
+    {
+        "en": "He drives more carefully than you.",
+        "zh": "他开车比你小心。"
+    },
+    {
+        "en": "He invited me to dinner yesterday.",
+        "zh": "他昨天请我吃晚饭了。"
+    },
+    {
+        "en": "He slapped the attacker in the face.",
+        "zh": "他打了那个攻击者一耳光。"
+    },
+    {
+        "en": "He suddenly appeared at the party.",
+        "zh": "他突然在晚会上出现了。"
+    },
+    {
+        "en": "Her handbag goes with her clothes.",
+        "zh": "她的手袋和她的衣服很搭配。"
+    },
+    {
+        "en": "Here we are. row M, seats 1 and 3.",
+        "zh": "哦，到了。M排，1号和3号。"
+    },
+    {
+        "en": "His boss might get angry with him.",
+        "zh": "他的老板也许会生他的气。"
+    },
+    {
+        "en": "I expect to be there this evening.",
+        "zh": "我打算今天晚上到那儿去。"
+    },
+    {
+        "en": "I really need to lose some weight.",
+        "zh": "我真的需要减肥了。"
+    },
+    {
+        "en": "I think you have the wrong number.",
+        "zh": "我想你打错号码了。"
+    },
+    {
+        "en": "I would rather stay at home alone.",
+        "zh": "我宁愿独自呆在家。"
+    },
+    {
+        "en": "I'd like to look at some sweaters.",
+        "zh": "我想看看毛衣。"
+    },
+    {
+        "en": "Its origin is still a mystery now.",
+        "zh": "它的起源至今仍是个谜。"
+    },
+    {
+        "en": "Money is no more than our servant.",
+        "zh": "金钱不过是我们的仆人。"
+    },
+    {
+        "en": "Once you begin, you must continue.",
+        "zh": "一旦开始，你就得继续。"
+    },
+    {
+        "en": "She is poor but quite respectable.",
+        "zh": "她虽穷，人品却很端正。"
+    },
+    {
+        "en": "She spent a lot of money on books.",
+        "zh": "她花了很多钱来买书。"
+    },
+    {
+        "en": "The girl in red is his girlfriend.",
+        "zh": "穿红衣服的那个女孩是他的女朋友。"
+    },
+    {
+        "en": "There is a chair below the window.",
+        "zh": "窗户下面有一把椅子。"
+    },
+    {
+        "en": "They employed him as a consultant.",
+        "zh": "他们雇用他为顾问。"
+    },
+    {
+        "en": "To be honest with you, I'm twenty.",
+        "zh": "老实说，我20岁。"
+    },
+    {
+        "en": "We often call him by his nickname.",
+        "zh": "我们经常叫他的绰号。"
+    },
+    {
+        "en": "Will you be free tomorrow evening?",
+        "zh": "你明晚有空吗？"
+    },
+    {
+        "en": "Would you like to leave a message?",
+        "zh": "你要留话吗？"
+    },
+    {
+        "en": "You can never turn the clock back.",
+        "zh": "时光不能倒流。"
+    },
+    {
+        "en": "You may as well tell me the truth.",
+        "zh": "你还是把事实告诉我为好。"
+    },
+    {
+        "en": "Are your grandparents still living?",
+        "zh": "你的祖父母还在么？"
+    },
+    {
+        "en": "Can you recognize that woman, Mary?",
+        "zh": "你能认出那个女人是谁了吗，玛丽？"
+    },
+    {
+        "en": "Do you have any suggestions for me?",
+        "zh": "你对我有什么建议么？"
+    },
+    {
+        "en": "He is tough, but I am even tougher.",
+        "zh": "他是一个硬汉子，不过我要比他更硬。"
+    },
+    {
+        "en": "He made his way through the forest.",
+        "zh": "他设法穿过了森林。"
+    },
+    {
+        "en": "He suggests you leave here at once.",
+        "zh": "他建议你立刻离开这儿。"
+    },
+    {
+        "en": "He was married to a friend of mine.",
+        "zh": "他和我的一个朋友结了婚。"
+    },
+    {
+        "en": "He will blame you for your carelessness.",
+        "zh": "他会责备你的粗心大意。"
+    },
+    {
+        "en": "I can give you a number of excuses.",
+        "zh": "我可以给你一些借口。"
+    },
+    {
+        "en": "I don't doubt that he will help me.",
+        "zh": "我不怀疑他会援助我。"
+    },
+    {
+        "en": "I hope you enjoy your stay with us.",
+        "zh": "希望您在这儿过的愉快。"
+    },
+    {
+        "en": "I'd like to repair our differences.",
+        "zh": "我愿意消除一下我们之间的分歧。"
+    },
+    {
+        "en": "It's nothing to be surprised about.",
+        "zh": "这事不值得大惊小怪。"
+    },
+    {
+        "en": "It's rude to stare at other people.",
+        "zh": "盯着别人看是不礼貌的。"
+    },
+    {
+        "en": "Bob has always had a crush on Lucy.",
+        "zh": "鲍勃一直暗恋露西。"
+    },
+    {
+        "en": "Let's take a short break for lunch.",
+        "zh": "让我们在吃午饭的时候休息一下吧。"
+    },
+    {
+        "en": "Linda speaks as if she were a boss.",
+        "zh": "琳达说话就像她是老板一样。"
+    },
+    {
+        "en": "She became more and more beautiful.",
+        "zh": "她变得越来越漂亮了。"
+    },
+    {
+        "en": "Suppose it rains, what shall we do?",
+        "zh": "假如下雨，我们该怎么办？"
+    },
+    {
+        "en": "The book is protected by copyright.",
+        "zh": "该书受版权保护。"
+    },
+    {
+        "en": "The ice is hard enough to skate on.",
+        "zh": "冰已经厚得可以划冰了。"
+    },
+    {
+        "en": "The price includes postage charges.",
+        "zh": "价格包括邮费。"
+    },
+    {
+        "en": "This is a little something for you.",
+        "zh": "这是给你的一点小礼物。"
+    },
+    {
+        "en": "What he likes best is making jokes.",
+        "zh": "他最喜欢开玩笑。"
+    },
+    {
+        "en": "Who but Jack would do such a thing?",
+        "zh": "除了杰克谁会做这种事呢？"
+    },
+    {
+        "en": "You should have a mind of your own.",
+        "zh": "你应该有自己的想法。"
+    },
+    {
+        "en": "You will soon get used to the work.",
+        "zh": "你很快就会习惯于这项工作的。"
+    },
+    {
+        "en": "Columbus discovered America in 1492.",
+        "zh": "哥伦布于1492年发现了美洲。"
+    },
+    {
+        "en": "God helps those who help themselves.",
+        "zh": "上帝帮助那些自己帮自己的人。"
+    },
+    {
+        "en": "He has a nice sum of money put away.",
+        "zh": "他有一大笔钱。"
+    },
+    {
+        "en": "He is heavily insured against death.",
+        "zh": "他给自己投了巨额的人身保险。"
+    },
+    {
+        "en": "He used to learn everything by rote.",
+        "zh": "他过去总是死记硬背。"
+    },
+    {
+        "en": "He's a terrible man when he's angry.",
+        "zh": "他生气的时候很可怕。"
+    },
+    {
+        "en": "I am on my way to the grocery store.",
+        "zh": "我正在去杂货店的路上。"
+    },
+    {
+        "en": "I am sick of always waiting for you!",
+        "zh": "你老让我等你，真是烦透了。"
+    },
+    {
+        "en": "I appreciate John's help on time.",
+        "zh": "我感谢约翰的及时帮助。"
+    },
+    {
+        "en": "I bought it the day it was released.",
+        "zh": "它发行的当天我就买了。"
+    },
+    {
+        "en": "I doubted whether the story was true.",
+        "zh": "我怀疑那故事是不是真的。"
+    },
+    {
+        "en": "I learnt that I had passed the test.",
+        "zh": "我得知我测验及格了。"
+    },
+    {
+        "en": "I will seek my doctor's advice.",
+        "zh": "我将请教医生的意见。"
+    },
+    {
+        "en": "Ice-cream is popular among children.",
+        "zh": "冰淇淋深受孩子们的欢迎。"
+    },
+    {
+        "en": "I'd like to get this film developed.",
+        "zh": "我要冲洗这卷胶卷。"
+    },
+    {
+        "en": "In a word, I am tired of everything.",
+        "zh": "总之，我对一切都很厌倦。"
+    },
+    {
+        "en": "Let us do it by ourselves, will you?",
+        "zh": "我们自己做这件事，可以吗？"
+    },
+    {
+        "en": "May I know the quantity you require?",
+        "zh": "请问你们需要多少数量的货物？"
+    },
+    {
+        "en": "Nobody has ever solved this problem.",
+        "zh": "没有人曾解决过这个问题。"
+    },
+    {
+        "en": "Our school covers 100 square meters.",
+        "zh": "我们学校占地面积100平方米。"
+    },
+    {
+        "en": "People enjoyed the stamps very much.",
+        "zh": "人们非常喜爱这些邮票。"
+    },
+    {
+        "en": "The editor over looked a print error.",
+        "zh": "这位编辑漏掉了一个印刷错误。"
+    },
+    {
+        "en": "The sudden barking frightened Clara.",
+        "zh": "突然的吠声吓坏了克拉拉。"
+    },
+    {
+        "en": "The teams are coming onto the field.",
+        "zh": "队员们都进场了。"
+    },
+    {
+        "en": "There is a mark of ink on his shirt.",
+        "zh": "他的衬衣上有一块墨迹。"
+    },
+    {
+        "en": "There isn't any water in the bottle.",
+        "zh": "瓶子里一点水也没有。"
+    },
+    {
+        "en": "This joke has gone a little too far.",
+        "zh": "这个玩笑开得有点过分了。"
+    },
+    {
+        "en": "We arrived in London this afternoon.",
+        "zh": "我们是今天下午到达伦敦的。"
+    },
+    {
+        "en": "We can't go out because of the rain.",
+        "zh": "我们不能出去因为下雨了。"
+    },
+    {
+        "en": "We should make good use of our time.",
+        "zh": "我们应该充分利用我们的时间。"
+    },
+    {
+        "en": "We should save unnecessary expenses.",
+        "zh": "我们应节省不必要的开支。"
+    },
+    {
+        "en": "You may have heard of birth control.",
+        "zh": "你们也许听说过控制人口出生的措施。"
+    },
+    {
+        "en": "After a pause, he continued his story.",
+        "zh": "停顿一下之后他继续说他的。"
+    },
+    {
+        "en": "As you know, I am a very kind person.",
+        "zh": "你知道，我是个很和善的人。"
+    },
+    {
+        "en": "He dare not tell us his evil conduct.",
+        "zh": "他不敢告诉我们他的恶行。"
+    },
+    {
+        "en": "I can express myself in good English.",
+        "zh": "我可以用很好的英语来表达自己的观点。"
+    },
+    {
+        "en": "I'll furnish my house with furniture.",
+        "zh": "我要为我的房子置办家具。"
+    },
+    {
+        "en": "It seemed as if there was no way out.",
+        "zh": "看情形似乎没有出路了。"
+    },
+    {
+        "en": "It's the hottest day I've had so far.",
+        "zh": "这么久以来这是我经历的最热的一天。"
+    },
+    {
+        "en": "Mr. Smith is in charge of this class.",
+        "zh": "史密斯老师负责该班。"
+    },
+    {
+        "en": "Mr. Smith taught English at a school.",
+        "zh": "史密斯先生在一所学校教英语。"
+    },
+    {
+        "en": "None of us is afraid of difficulties.",
+        "zh": "我们当中没有一个人害怕困难。"
+    },
+    {
+        "en": "Our school is in the east of Beijing.",
+        "zh": "我们学校在北京的东部。"
+    },
+    {
+        "en": "She really wishes her clock had rung.",
+        "zh": "她真希望今天早上她的闹钟响了。"
+    },
+    {
+        "en": "She teaches foreign students Chinese.",
+        "zh": "她教外国学生汉语。"
+    },
+    {
+        "en": "The question will be settled tonight.",
+        "zh": "这个问题将在今晚解决。"
+    },
+    {
+        "en": "The weight is too much for my height.",
+        "zh": "相对于我的身高来说，体重太重了！"
+    },
+    {
+        "en": "There are mice in Mrs. Lee's kitchen!",
+        "zh": "李太太的厨房里有老鼠！"
+    },
+    {
+        "en": "There is no one but hopes to be rich.",
+        "zh": "没有人不想发财。"
+    },
+    {
+        "en": "There'll be some sports reviews on TV.",
+        "zh": "电视上会有一些体育评论。"
+    },
+    {
+        "en": "This company is our regular customer.",
+        "zh": "这家公司是我们的老客户。"
+    },
+    {
+        "en": "This is a good example of his poetry.",
+        "zh": "这是他诗作的一个好例子。"
+    },
+    {
+        "en": "What we read influences our thinking.",
+        "zh": "我们所阅读的书本会影响我们的思想。"
+    },
+    {
+        "en": "Words can't express what I felt then.",
+        "zh": "无法用语言形容我当时的感受。"
+    },
+    {
+        "en": "You really have an ear for pop music.",
+        "zh": "你确实对流行音乐很有欣赏力。"
+    },
+    {
+        "en": "A bad workman quarrels with his tools.",
+        "zh": "手艺差的工人总是抱怨工具不好使。"
+    },
+    {
+        "en": "Can you adapt yourself to the new job?",
+        "zh": "你能适应新的工作吗？"
+    },
+    {
+        "en": "Does the computer ever make a mistake?",
+        "zh": "计算机出错吗？"
+    },
+    {
+        "en": "Don't be uneasy about the consequences.",
+        "zh": "不必为后果忧虑不安。"
+    },
+    {
+        "en": "Even a child can answer this question.",
+        "zh": "即使小孩儿都能回答这个问题。"
+    },
+    {
+        "en": "He has many strange ideas in his mind.",
+        "zh": "他脑子里尽足奇思怪想。"
+    },
+    {
+        "en": "He is commonly supposed to be foolish.",
+        "zh": "他是公认的傻瓜。"
+    },
+    {
+        "en": "He sat with his arms across his chest.",
+        "zh": "他双臂交叉于胸前的坐在那里。"
+    },
+    {
+        "en": "He set up a fine example for all of us.",
+        "zh": "他为我们树立了一个好榜样。"
+    },
+    {
+        "en": "His cake is four times as big as mine.",
+        "zh": "他的蛋糕是我的四倍大。"
+    },
+    {
+        "en": "I do not care whether it rains or not.",
+        "zh": "我不管天会不会下雨。"
+    },
+    {
+        "en": "I have a lot in common with my sister.",
+        "zh": "我和我姐姐有很多相同之处。"
+    },
+    {
+        "en": "I haven't even touched your tooth yet.",
+        "zh": "我还没有碰到你的牙齿呢。"
+    },
+    {
+        "en": "I'm looking forward to a prompt reply.",
+        "zh": "盼迅速答复。"
+    },
+    {
+        "en": "It is an excellent novel in every way.",
+        "zh": "无论从哪方面来看，这都是一本优秀的小说。"
+    },
+    {
+        "en": "It is clear that the cat has eaten it!",
+        "zh": "很明显，是猫偷吃的！"
+    },
+    {
+        "en": "Nothing but death can part the couple.",
+        "zh": "除了死之外，什么也拆不散这一对。"
+    },
+    {
+        "en": "Now she looks pale, as if she were ill.",
+        "zh": "现在她脸色难看，好像病了一样。"
+    },
+    {
+        "en": "She was injured badly in the accident.",
+        "zh": "她在这次意外中受到重伤。"
+    },
+    {
+        "en": "The secret was spread among the crowd.",
+        "zh": "秘密在人群当中传播开来。"
+    },
+    {
+        "en": "The two brothers look very much alike.",
+        "zh": "这兄弟俩看上去很相像。"
+    },
+    {
+        "en": "Their interest is listening to others.",
+        "zh": "他们的兴趣是听别人说话。"
+    },
+    {
+        "en": "There was a notice in the supermarket.",
+        "zh": "超市里有一个布告。"
+    },
+    {
+        "en": "This one cannot compare with that one.",
+        "zh": "这个与那个无法比较。"
+    },
+    {
+        "en": "To know everything is to know nothing.",
+        "zh": "无所不知就是什么都不知道。"
+    },
+    {
+        "en": "To tell the truth, I don't like disco.",
+        "zh": "说实话，我不喜欢迪斯科。"
+    },
+    {
+        "en": "True and false have opposite meanings.",
+        "zh": "真与假含义完全相反。"
+    },
+    {
+        "en": "What's the point of going to college?",
+        "zh": "上大学有何用？"
+    },
+    {
+        "en": "Where can we make the insurance claim?",
+        "zh": "我们在哪里可以提出保险索赔？"
+    },
+    {
+        "en": "Why don't I pick you up at your house?",
+        "zh": "我为什么不去你家接你？"
+    },
+    {
+        "en": "Why don't you attend an aerobic class?",
+        "zh": "你为什么不去参加一个有氧健身班呢？"
+    },
+    {
+        "en": "You can kill two birds with one stone.",
+        "zh": "一石二鸟。"
+    },
+    {
+        "en": "You can't go in no matter who you are.",
+        "zh": "不管你是谁，都不能进去。"
+    },
+    {
+        "en": "You should learn these words by heart.",
+        "zh": "你应该把这些词背熟。"
+    },
+    {
+        "en": "Could I have those two tickets, please?",
+        "zh": "这两张票给我行不行？"
+    },
+    {
+        "en": "He has to take care of his sick mother.",
+        "zh": "他得照顾他生病的母亲。"
+    },
+    {
+        "en": "He hired a workman to repair the fence.",
+        "zh": "他雇用了一个工人修理围墙。"
+    },
+    {
+        "en": "I can't make this machine run properly.",
+        "zh": "我无法使这部机器正常运转。"
+    },
+    {
+        "en": "I don't know if I'll have the patience.",
+        "zh": "我不知道我有没有耐心。"
+    },
+    {
+        "en": "I don't like what you are saying.",
+        "zh": "我不喜欢你说的话。"
+    },
+    {
+        "en": "I fell in love with her at first sight.",
+        "zh": "我第一眼见到她就爱上了她。"
+    },
+    {
+        "en": "I have just heard from my sister, Mary.",
+        "zh": "我刚收到我妹妹玛丽的一封信。"
+    },
+    {
+        "en": "If you would only try, you could do it.",
+        "zh": "只要你肯尝试，你一定能做这件事。"
+    },
+    {
+        "en": "It is no use learning without thinking.",
+        "zh": "学而不思则惘（学而不思是没有用的）。"
+    },
+    {
+        "en": "It was a lazy, breezy autumn afternoon.",
+        "zh": "这是一个懒散的，起风的秋日下午。"
+    },
+    {
+        "en": "Jack is the strongest boy in the class.",
+        "zh": "杰克是全班最强壮的男孩。"
+    },
+    {
+        "en": "Please fetch a chair from another room.",
+        "zh": "请到别的房间取一把椅子。"
+    },
+    {
+        "en": "The doctor began to operate on the boy.",
+        "zh": "医生开始给那个男孩动手术。"
+    },
+    {
+        "en": "The doctor is taking my blood pressure.",
+        "zh": "医生正给我量血压。"
+    },
+    {
+        "en": "The machines will not operate properly.",
+        "zh": "那些机器不能正常运转。"
+    },
+    {
+        "en": "The students declared against cheating.",
+        "zh": "学生们表示反对作弊。"
+    },
+    {
+        "en": "There is hope so long as he is with us.",
+        "zh": "只要他和我们在一起，就有希望。"
+    },
+    {
+        "en": "He talks as if he were the head of the office.",
+        "zh": "他说话的口气像办公室主任似的。"
+    },
+    {
+        "en": "His cake is three times bigger than mine.",
+        "zh": "他的蛋糕比我的大三倍。"
+    },
+    {
+        "en": "I am looking forward to your early reply.",
+        "zh": "希望早日得到你的答复。"
+    },
+    {
+        "en": "I could say nothing but that I was sorry.",
+        "zh": "我除了说“对不起”之外，什么也说不出来。"
+    },
+    {
+        "en": "I don't know how to express my gratitude.",
+        "zh": "我不知道如何表达我的感激之情。"
+    },
+    {
+        "en": "I have to catch a plane. Could you hurry?",
+        "zh": "我得赶飞机。你能快点吗？"
+    },
+    {
+        "en": "I haven't heard from her for a long time.",
+        "zh": "我好久没有她的消息了。"
+    },
+    {
+        "en": "I would like to wash the clothes for you.",
+        "zh": "我愿意帮你洗这些衣服。"
+    },
+    {
+        "en": "Let me see your driver's license, please.",
+        "zh": "请让我看看你的驾驶执照。"
+    },
+    {
+        "en": "She goes to work every day except Sunday.",
+        "zh": "除星期天外，他每天去上班。"
+    },
+    {
+        "en": "Take a seat please, make yourself at home.",
+        "zh": "请坐，别客气。"
+    },
+    {
+        "en": "The damage was caused by external forces.",
+        "zh": "损害是由外力引起的。"
+    },
+    {
+        "en": "The doctor advised me to give up smoking.",
+        "zh": "医生建议我戒烟。"
+    },
+    {
+        "en": "The flowers make the room more beautiful.",
+        "zh": "花使房间变得更加美了。"
+    },
+    {
+        "en": "There is a good restaurant on the street.",
+        "zh": "那条大街上有一个很好的餐馆。"
+    },
+    {
+        "en": "They covered 120 miles in a single night.",
+        "zh": "他们仅一夜就走了120英里路。"
+    },
+    {
+        "en": "Try to look on the bright side of things.",
+        "zh": "尽量从好的方面看。"
+    },
+    {
+        "en": "What's your plan for the summer vacation?",
+        "zh": "你暑假打算干什么？"
+    },
+    {
+        "en": "You may pick whichever one you like best.",
+        "zh": "你可以挑你最喜欢的。"
+    },
+    {
+        "en": "You're welcome to stay with us next time.",
+        "zh": "欢迎您下次再光临我们的饭店。"
+    },
+    {
+        "en": "There was a murder in London yesterday.",
+        "zh": "昨天伦敦发生了一起谋杀案。"
+    },
+    {
+        "en": "They stared at the huge tiger with awe.",
+        "zh": "他们敬畏地看着那头巨虎。"
+    },
+    {
+        "en": "He never misses a chance to see a movie.",
+        "zh": "他从不错过看电影的机会。"
+    },
+    {
+        "en": "I cannot put up with my noisy roommates.",
+        "zh": "我受不了我那些吵闹的室友了。"
+    },
+    {
+        "en": "I will be back by the end of next month.",
+        "zh": "我下个月底会回来。"
+    },
+    {
+        "en": "I'm good at freestyle and breast stroke.",
+        "zh": "我擅长自由泳和蛙泳。"
+    },
+    {
+        "en": "It was your turn to wash them yesterday.",
+        "zh": "昨天轮到你把它们洗干净。"
+    },
+    {
+        "en": "Let's go out to have dinner, shall we?",
+        "zh": "咱们出去吃饭吧，好吗？"
+    },
+    {
+        "en": "Please push the ladder against the wall.",
+        "zh": "请把梯子靠在墙壁上。"
+    },
+    {
+        "en": "She is standing in the front of the bus.",
+        "zh": "她站在公共汽车的前部。"
+    },
+    {
+        "en": "The doctor asked me to watch what I eat.",
+        "zh": "医生要我注意饮食。"
+    },
+    {
+        "en": "The grass is moist early in the morning.",
+        "zh": "清晨的草地湿漉漉的。"
+    },
+    {
+        "en": "The test finished. We began our holiday.",
+        "zh": "考试结束了，我们开始放假。"
+    },
+    {
+        "en": "This question is too complicated for me.",
+        "zh": "这个问题对我说来太复杂了。"
+    },
+    {
+        "en": "Tony speaks English and he plays tennis.",
+        "zh": "托尼会说英语，打网球。"
+    },
+    {
+        "en": "What is worth doing is worth doing well.",
+        "zh": "只要你觉得某事值得去做，就一定要把它做好。"
+    },
+    {
+        "en": "Would you like to go to a party with me?",
+        "zh": "你想不想和我一起去参加一个聚会？"
+    },
+    {
+        "en": "All at once, a rabbit came out of a hole.",
+        "zh": "突然，一只兔子从一个洞中跑了出来。"
+    },
+    {
+        "en": "All the characters in the book are imaginary.",
+        "zh": "书中所有的人物都是虚构的。"
+    },
+    {
+        "en": "Do you feel like going to that new disco?",
+        "zh": "你想去那家新开的迪斯科舞厅吗？"
+    },
+    {
+        "en": "Ducks know how to swim when they are born.",
+        "zh": "鸭子出生时会游泳。"
+    },
+    {
+        "en": "He spent most of his life gathering money.",
+        "zh": "他一生大部分时间用来积聚钱财。"
+    },
+    {
+        "en": "He usually stays at home with his pet dog.",
+        "zh": "他通常跟他的爱犬待在家里。"
+    },
+    {
+        "en": "How peaceful and beautiful the country is!",
+        "zh": "多么平静美丽的国家呀！"
+    },
+    {
+        "en": "I am told that you dance wonderfully well.",
+        "zh": "我听说你的舞跳得特棒。"
+    },
+    {
+        "en": "I have had several conversations with him.",
+        "zh": "我已经和他谈过几次了。"
+    },
+    {
+        "en": "It is the best film that I have ever seen.",
+        "zh": "这是我所看过的最好的电影。"
+    },
+    {
+        "en": "It's only a party in honor of my birthday.",
+        "zh": "这只是为了庆祝我的生日而举行的晚会。"
+    },
+    {
+        "en": "Learning English is like building a house.",
+        "zh": "学英语象盖房子。"
+    },
+    {
+        "en": "Listening with your heart is good for you.",
+        "zh": "专心聆听别人说话对你有好处。"
+    },
+    {
+        "en": "My grandpa died of hunger in the old days.",
+        "zh": "我爷爷在旧社会死于饥饿。"
+    },
+    {
+        "en": "She feared staying alone in the farmhouse.",
+        "zh": "她害怕一个人留在农舍里。"
+    },
+    {
+        "en": "She guided the tourists around the castle.",
+        "zh": "她引导旅游者参观了这座城堡。"
+    },
+    {
+        "en": "She runs every day in order to lose weight.",
+        "zh": "她每天都跑步是为了减肥。"
+    },
+    {
+        "en": "She sang perfectly in the hall last night.",
+        "zh": "她昨晚在大厅唱得非常好。"
+    },
+    {
+        "en": "Somebody is always complaining to others.",
+        "zh": "有人总是向别人抱怨。"
+    },
+    {
+        "en": "They don't often have a bad day this year.",
+        "zh": "他们今年的运气还不错。"
+    },
+    {
+        "en": "We regard the matter as nothing important.",
+        "zh": "我们认为这件事情不重要。"
+    },
+    {
+        "en": "We'll take our holiday sometime in August.",
+        "zh": "我们将在八月份的某个时候休假。"
+    },
+    {
+        "en": "Could you direct me to the station, please?",
+        "zh": "请问到车站怎么走？"
+    },
+    {
+        "en": "Have you cleared your luggage with customs?",
+        "zh": "你的行李通关了吗？"
+    },
+    {
+        "en": "He bothered me with a great many questions.",
+        "zh": "他对我提了一大堆问题，真烦！"
+    },
+    {
+        "en": "He does exercises every day in the morning.",
+        "zh": "他每天早上锻练身体。"
+    },
+    {
+        "en": "How do I control myself? I can't calm down.",
+        "zh": "我怎能控制我自己？我无法冷静下来。"
+    },
+    {
+        "en": "I dig songs and I like pop music very much.",
+        "zh": "我特别喜欢歌曲和流行音乐。"
+    },
+    {
+        "en": "I'd like to cash a traveler's check please.",
+        "zh": "我想兑换旅行支票。"
+    },
+    {
+        "en": "I'd like to pick sea shells this afternoon.",
+        "zh": "今天下午我想去捡贝壳。"
+    },
+    {
+        "en": "It's odd that they didn't reply to our letter.",
+        "zh": "他们没有给我们回信，这真奇怪。"
+    },
+    {
+        "en": "John seldom gets together with his friends.",
+        "zh": "约翰很少与朋友聚在一起。"
+    },
+    {
+        "en": "Many people have been out of work recently.",
+        "zh": "最近有许多人失业。"
+    },
+    {
+        "en": "Please give my best regards to your family.",
+        "zh": "请代我向你们全家致以最诚挚的问候。"
+    },
+    {
+        "en": "Some people have compared books to friends.",
+        "zh": "有些人把书比作朋友。"
+    },
+    {
+        "en": "The bat together with the balls was stolen.",
+        "zh": "球棒和球都被偷了。"
+    },
+    {
+        "en": "The color of her dress suits her very well.",
+        "zh": "她衣服的颜色很适合她。"
+    },
+    {
+        "en": "The days get longer and the nights get shorter.",
+        "zh": "白天变长了，黑夜变短了。"
+    },
+    {
+        "en": "The dress doesn't fit her. She is too thin.",
+        "zh": "这件衣服不适合她，她太瘦了。"
+    },
+    {
+        "en": "The examination put a lot of stress on him.",
+        "zh": "那次考试给了他很大的压力。"
+    },
+    {
+        "en": "The mother sat the child at a little table.",
+        "zh": "母亲安排孩子坐到小桌旁。"
+    },
+    {
+        "en": "There is some difference between the twins.",
+        "zh": "这对双胞胎有点儿不一样。"
+    },
+    {
+        "en": "They insisted on staying rather than going.",
+        "zh": "他们坚持留下来而不是走。"
+    },
+    {
+        "en": "Trust me, the game is really worth playing.",
+        "zh": "相信我，这游戏确实值得一玩。"
+    },
+    {
+        "en": "Unlike her friends, she never gave up hope.",
+        "zh": "与她的朋友的不同之处是，她从不放弃希望。"
+    },
+    {
+        "en": "Well done! You are always doing a good job!",
+        "zh": "干得不错！你总是干得很出色！"
+    },
+    {
+        "en": "We're planning a tour to Italy this summer.",
+        "zh": "我们计划今年夏天到意大利去旅行。"
+    },
+    {
+        "en": "Were there any letters for me this morning?",
+        "zh": "今天早上有我的信吗？"
+    },
+    {
+        "en": "Why isn't Mrs. Lee's cat catching the mice?",
+        "zh": "李太太的猫为何不在抓这些老鼠呢？"
+    },
+    {
+        "en": "Your English is improving little by little.",
+        "zh": "你的英语正在渐渐提高。"
+    },
+    {
+        "en": "Could you tell me where I can wash my hands?",
+        "zh": "你能告诉我在哪里洗手吗？"
+    },
+    {
+        "en": "Do you have any plans for the long weekend?",
+        "zh": "你有办法打发这个漫长的周末吗？"
+    },
+    {
+        "en": "He decided to bring a suit against his boss.",
+        "zh": "他决定起诉他的老板。"
+    },
+    {
+        "en": "He devoted his life to the study of science.",
+        "zh": "他把毕生献给科学研究。"
+    },
+    {
+        "en": "He had to choose between death and dishonor.",
+        "zh": "他不得不在死亡和耻辱之间选择。"
+    },
+    {
+        "en": "His previous attempts had been unsuccessful.",
+        "zh": "他以前的尝试没有成功。"
+    },
+    {
+        "en": "I determined that nothing should be changed.",
+        "zh": "我决定什么都不改变。"
+    },
+    {
+        "en": "I don't think it will lead to a good result.",
+        "zh": "我认为这事不会有什么好结果。"
+    },
+    {
+        "en": "I have 4 books and 2 magazines to check out.",
+        "zh": "我有4本书和2本杂志要借。"
+    },
+    {
+        "en": "I think I've filled in everything correctly.",
+        "zh": "我想各项都填对了。"
+    },
+    {
+        "en": "I'm not sure whether I have locked the door.",
+        "zh": "我不确定我是否锁了门。"
+    },
+    {
+        "en": "It took him a little time to fix that watch.",
+        "zh": "他很快就把表修理好了。"
+    },
+    {
+        "en": "My father is at home looking for the ticket.",
+        "zh": "我父亲在家找票。"
+    },
+    {
+        "en": "Not until last week did I get a work permit.",
+        "zh": "直到上周我才拿到工作许可证。"
+    },
+    {
+        "en": "She intends to make teaching her profession.",
+        "zh": "她想以教书为职业。"
+    },
+    {
+        "en": "The letter “x” stands for an unknown number.",
+        "zh": "字母x代表未知数。"
+    },
+    {
+        "en": "The sight of the dead body scared him stiff.",
+        "zh": "看到尸体，他吓得直发抖。"
+    },
+    {
+        "en": "There are lots of huge buildings in Beijing.",
+        "zh": "在北京有许多高大的建筑物。"
+    },
+    {
+        "en": "There is an interesting film on channel one.",
+        "zh": "在一频道有一部有趣的电影。"
+    },
+    {
+        "en": "They plan to immigrate to Finland next year.",
+        "zh": "他们计划明年移居芬兰。"
+    },
+    {
+        "en": "We enjoyed driving along the new expressway.",
+        "zh": "我们喜欢沿着新建的高速公路开车。"
+    },
+    {
+        "en": "We need to cooperate perfectly to win the game.",
+        "zh": "要想赢得比赛，我们需要密切配合。"
+    },
+    {
+        "en": "We need more than listening. We need action!",
+        "zh": "我们需要的不光是听得进意见，我们要的是行动。"
+    },
+    {
+        "en": "Yes. I wouldn't go home early if I were you.",
+        "zh": "是的，如果我是你，我不会早回家。"
+    },
+    {
+        "en": "Your answer is satisfying. I feel satisfied.",
+        "zh": "你的答案是令人满意的。我感到很满意。"
+    },
+    {
+        "en": "Betty and Susan are talking on the telephone.",
+        "zh": "贝蒂和苏珊正在通电话。"
+    },
+    {
+        "en": "Great efforts ensure the success of our work.",
+        "zh": "巨大的努力确保了我们工作的成功。"
+    },
+    {
+        "en": "He has tasted the sweets and bitters of life.",
+        "zh": "他已尝遍了人生的甜酸苦辣。"
+    },
+    {
+        "en": "He said he was educated in the United States.",
+        "zh": "他说他是在美国受的教育。"
+    },
+    {
+        "en": "How do you like our English literature prof.?",
+        "zh": "你觉得我们的英国文学课的教授怎么样？"
+    },
+    {
+        "en": "I am looking forward to your visit next week.",
+        "zh": "我期待着你下周来访。"
+    },
+    {
+        "en": "I feel I am the happiest person in the world.",
+        "zh": "我觉得自己是世界上最幸福的人了。"
+    },
+    {
+        "en": "I had to sit up all night writing the report.",
+        "zh": "我不得不熬通宵写报告。"
+    },
+    {
+        "en": "I hope we can see each other again some time.",
+        "zh": "希望还能有相见的机会。"
+    },
+    {
+        "en": "I saw him playing football in the playground.",
+        "zh": "我看见他在操场上踢足球。"
+    },
+    {
+        "en": "It is tomorrow that they will have a meeting.",
+        "zh": "他们将在明天开会。"
+    },
+    {
+        "en": "Let me tell you some details about clearance.",
+        "zh": "让我告诉你一些通关的细节。"
+    },
+    {
+        "en": "The brain needs a continuous supply of blood.",
+        "zh": "大脑需要连续不断地供血。"
+    },
+    {
+        "en": "The doctor's words made him feel comfortable.",
+        "zh": "医生的话让他感觉很舒服。"
+    },
+    {
+        "en": "The truth is quite other than what you think.",
+        "zh": "事实真相和你所想的完全不同。"
+    },
+    {
+        "en": "They stopped talking when their boss came in.",
+        "zh": "老板进来时，他们停止了谈话。"
+    },
+    {
+        "en": "They were glad that the examination was over.",
+        "zh": "他们为考试结束了而高兴。"
+    },
+    {
+        "en": "This is by far the largest cake in the world.",
+        "zh": "这是目前世界上最大的蛋糕了。"
+    },
+    {
+        "en": "Whichever you choose, you won't be satisfied.",
+        "zh": "不论你选择哪一个，你都不会满意。"
+    },
+    {
+        "en": "Will you connect this wire to the television?",
+        "zh": "你把这根电线和电视机连上好吗？"
+    },
+    {
+        "en": "His words are strongly impressed by my memory.",
+        "zh": "他的话深深地铭记在我的心头。"
+    },
+    {
+        "en": "Is this the right bus for the capital library?",
+        "zh": "这是去首都图书馆的车吗？"
+    },
+    {
+        "en": "One third of this area is covered with forest.",
+        "zh": "这一地区三分之一的地方都是森林。"
+    },
+    {
+        "en": "They are arguing over who should pay the bill.",
+        "zh": "他们为谁应该付款而争论不休。"
+    },
+    {
+        "en": "Wait a moment, I'll be with you in an instant.",
+        "zh": "等一下，我立刻就来。"
+    },
+    {
+        "en": "You'll save time not waiting for the elevator.",
+        "zh": "你可以节省等电梯的时间。"
+    },
+    {
+        "en": "A clear conscience laughs at false accusations.",
+        "zh": "只要问心无愧，无端的指责可以一笑置之。"
+    },
+    {
+        "en": "I have a headache, and she has a stomachache.",
+        "zh": "我头疼，她胃疼。"
+    },
+    {
+        "en": "He glared at Bill, ready to teach him a lesson.",
+        "zh": "他怒视着比尔，准备教训他一顿。"
+    },
+    {
+        "en": "I assure you that you will feel no pain at all.",
+        "zh": "我向你保证，你不会感到任何疼痛。"
+    },
+    {
+        "en": "I can't afford to go to a restaurant every day.",
+        "zh": "每天都去餐馆吃饭，我真是支付不起。"
+    },
+    {
+        "en": "I left at 6:00 so that I could catch the train.",
+        "zh": "我六点钟出门，以便赶上火车。"
+    },
+    {
+        "en": "I'm afraid I have some rather bad news for you.",
+        "zh": "我恐怕有些很坏的消息要告诉你。"
+    },
+    {
+        "en": "Learn to say the right thing at the right time.",
+        "zh": "学会在正确的时间说正确的话。"
+    },
+    {
+        "en": "No wonder you can't sleep when you eat so much.",
+        "zh": "你吃这么多难怪睡不着。"
+    },
+    {
+        "en": "Please ask her to call me back when she's back.",
+        "zh": "她回来时请让她给我回个电话。"
+    },
+    {
+        "en": "There are a lot of people in the swimming pool.",
+        "zh": "游泳池里挤满了人。"
+    },
+    {
+        "en": "They have to work hard to support their family.",
+        "zh": "他们必须努力工作来支持他们的家。"
+    },
+    {
+        "en": "This way, he can kill two birds with one stone.",
+        "zh": "这样他就能两全其美。"
+    },
+    {
+        "en": "We are all taking medicine against the disease.",
+        "zh": "我们都服药治疗疾病。"
+    },
+    {
+        "en": "Would you please go to a dancing party with me?",
+        "zh": "请你跟我一起去参加一个舞会好吗？"
+    },
+    {
+        "en": "He usually drops in at my place on his way home.",
+        "zh": "他常常在回家的路上顺便来看看我。"
+    },
+    {
+        "en": "His vanity was hurt by their talking so frankly.",
+        "zh": "他们如此坦率的谈话伤害了他的虚荣心。"
+    },
+    {
+        "en": "How would you go to Beijing, by air or by train?",
+        "zh": "你怎样去北京，是乘飞机还是坐火车？"
+    },
+    {
+        "en": "I cannot express how glad I am to hear from him.",
+        "zh": "我无法表达我接到他的信时有多高兴。"
+    },
+    {
+        "en": "If Tom cannot keep his promise, he'll lose face.",
+        "zh": "如果汤姆不能信守诺言，他就会丢面子。"
+    },
+    {
+        "en": "I'll still love her even if she doesn't love me.",
+        "zh": "即使她不爱我，我还仍然爱她。"
+    },
+    {
+        "en": "I received an invitation, but I did not accept it.",
+        "zh": "我收到了邀请，但我没有接受。"
+    },
+    {
+        "en": "If I were you, I would not be bothered by English.",
+        "zh": "如果我是你，就不会为英语烦恼了。"
+    },
+    {
+        "en": "If you don't work, you will fail to pass the exam.",
+        "zh": "如果你不学习，你考试就会不及格。"
+    },
+    {
+        "en": "I'm thinking of hanging the lamp from the ceiling.",
+        "zh": "我打算把灯吊在天花板上。"
+    },
+    {
+        "en": "It is more important to be healthy than bony slim.",
+        "zh": "健康比瘦骨嶙峋更重要。"
+    },
+    {
+        "en": "Long ago, people believed that the world was flat.",
+        "zh": "很久以前人们相信地球是平的。"
+    },
+    {
+        "en": "Old tunes are sweetest and old friends are surest.",
+        "zh": "老调最甜美，老友最可靠。"
+    },
+    {
+        "en": "She makes it clear that she doesn't like swimming.",
+        "zh": "她明确地表示她不喜欢游泳。"
+    },
+    {
+        "en": "The constitution guards the liberty of the people.",
+        "zh": "宪法保护人民的自由。"
+    },
+    {
+        "en": "The doctor examined the soldier's wound carefully.",
+        "zh": "大夫仔细检查了战士的伤口。"
+    },
+    {
+        "en": "The harder I study, the better my English will be.",
+        "zh": "我越努力，我的英语就会越好。"
+    },
+    {
+        "en": "The sun was shining and the sky was crystal clear.",
+        "zh": "阳光闪烁，天空湛蓝。"
+    },
+    {
+        "en": "This cellar room is very damp in the rainy season.",
+        "zh": "这间地下室在雨季非常潮湿。"
+    },
+    {
+        "en": "Computers are becoming a part of our everyday life.",
+        "zh": "电子计算机正渐渐成为我们日常生活的一部分。"
+    },
+    {
+        "en": "Every man is a fool sometimes, but none at all times.",
+        "zh": "每个人都有愚蠢的时候，但是没有一个人永远愚蠢。"
+    },
+    {
+        "en": "He dreamed of traveling to remote south sea islands.",
+        "zh": "他曾梦想到遥远的南海诸岛去旅游。"
+    },
+    {
+        "en": "How can I climb up that wall! I wish I were a bird!",
+        "zh": "我怎么能够爬得上那堵墙？我要是一只鸟就好了！"
+    },
+    {
+        "en": "However, Susan has not really made up her mind yet.",
+        "zh": "然而，苏珊却还没有决定。"
+    },
+    {
+        "en": "I really think a little exercise would do you good.",
+        "zh": "我真的觉得做点运动对你有好处。"
+    },
+    {
+        "en": "I will never forget the days that I spent with you.",
+        "zh": "我永远都不会忘记和你一起度过的日子。"
+    },
+    {
+        "en": "We got a bad headache, and my nose is running.",
+        "zh": "我头痛得厉害，还流鼻涕。"
+    },
+    {
+        "en": "Many young girls dream of being fashion models.",
+        "zh": "许多年轻女孩梦想成为时装模特儿。"
+    },
+    {
+        "en": "Most of the earth's surface is covered by water.",
+        "zh": "大部分的地球表面被水覆盖着。"
+    },
+    {
+        "en": "Somebody's knocking at the door. I'll answer it.",
+        "zh": "有人在敲门，我去开。"
+    },
+    {
+        "en": "The number 13 bus will take you to the hospital.",
+        "zh": "13路车会带你去医院。"
+    },
+    {
+        "en": "They celebrated his birthday with a dance party.",
+        "zh": "他们举行舞会庆祝他的生日。"
+    },
+    {
+        "en": "They misplaced this book under other categories.",
+        "zh": "他们把它错放到另一个类别去了。"
+    },
+    {
+        "en": "They played a shameful part in the whole affair.",
+        "zh": "他们在这一事件中扮演了可耻的角色。"
+    },
+    {
+        "en": "As a matter of fact, he was pretending to be ill.",
+        "zh": "实际上，他是在装病。"
+    },
+    {
+        "en": "I will speak against anything I know to be wrong.",
+        "zh": "我会对所有我认为不对的事情直言不讳。"
+    },
+    {
+        "en": "In spite of the heavy rain, she went to the shop.",
+        "zh": "尽管下着大雨，她还是去了商店。"
+    },
+    {
+        "en": "No matter what happened, he would not say a word.",
+        "zh": "不管发生什么事，他也不会说一句话。"
+    },
+    {
+        "en": "No one knows the location of the hidden treasure.",
+        "zh": "谁也不知道藏宝地点在哪里。"
+    },
+    {
+        "en": "The old lady enjoys a quiet life with her family.",
+        "zh": "老太太和她的家人安享宁静的生活。"
+    },
+    {
+        "en": "The population of the city is close to a million.",
+        "zh": "这个城市的人口接近一百万。"
+    },
+    {
+        "en": "We are prohibited from smoking on school grounds.",
+        "zh": "我们被禁止在校园内抽烟。"
+    },
+    {
+        "en": "Growth, however, brings new problems and concerns.",
+        "zh": "不过，发展也带来了新的问题和顾虑。"
+    },
+    {
+        "en": "He appears to be your friend, but I doubt if he is.",
+        "zh": "他似乎是你的朋友，但我怀疑他是否是。"
+    },
+    {
+        "en": "I am so full that I would burst with another bite.",
+        "zh": "我吃得如此之饱，我感觉我再吃一口肚子就要胀破了。"
+    },
+    {
+        "en": "I have two cats. One is white, the other is black.",
+        "zh": "我有两只猫，一只是白猫，另一只是黑猫。"
+    },
+    {
+        "en": "I'm sorry, these 2 books are 3 days overdue.",
+        "zh": "对不起，这两本书已经过期3天了。"
+    },
+    {
+        "en": "Jalu had forgotten to fall off his bicycle.",
+        "zh": "贾鲁忘记了从自行车上摔下来的事。"
+    },
+    {
+        "en": "Manners are quite different from country to country.",
+        "zh": "各国的礼仪各不相同。"
+    },
+    {
+        "en": "Not only did I know her, but I was her best friend.",
+        "zh": "我不仅认识她，还是她最好的朋友。"
+    },
+    {
+        "en": "The best-known movie awards are academy awards.",
+        "zh": "最著名的电影奖是奥斯卡金像奖。"
+    },
+    {
+        "en": "We've got to do something about the neighbor's dog!",
+        "zh": "我们得对邻居的狗采取点行动了！"
+    },
+    {
+        "en": "Will you come and join us for dinner on Sunday?",
+        "zh": "星期天来和我们共进晚餐好吗？"
+    },
+    {
+        "en": "Do you think people are the company's greatest wealth?",
+        "zh": "你认为人是公司最大的财富吗？"
+    },
+    {
+        "en": "He thinks of himself as somebody, but we think of him as nobody.",
+        "zh": "他自以为了不起，但我们认为他什么都不是。"
+    },
+    {
+        "en": "I believe I haven't reached the summit of my career.",
+        "zh": "我相信我还没有达到事业的巅峰。"
+    },
+    {
+        "en": "It is no matter whether you get there early or late.",
+        "zh": "你早到还是晚到都没有关系。"
+    },
+    {
+        "en": "It's against the rules to handle the ball in soccer.",
+        "zh": "在足球中以手触球就是犯规。"
+    },
+    {
+        "en": "The nurse assisted the doctor in the operating room.",
+        "zh": "护士在手术室协助医生动手术。"
+    },
+    {
+        "en": "What I do on my own time is nobody else's business.",
+        "zh": "我在自己的时间里做什么不关别人的事。"
+    },
+    {
+        "en": "What I want to do is different from those of others.",
+        "zh": "我想做的与其他人不同。"
+    },
+    {
+        "en": "You forget to write down the date of your departure.",
+        "zh": "你忘了写下离开的日期。"
+    },
+    {
+        "en": "I wish I'd known about that rule earlier, she said.",
+        "zh": "她说：“我希望早点知道这条规则。”。"
+    },
+    {
+        "en": "Could you tell me your secret for a long, happy life?",
+        "zh": "你能告诉我长时间地过着快乐的生活的秘诀吗？"
+    },
+    {
+        "en": "He holds a position of great responsibility upon him.",
+        "zh": "他担任着一个责任重大的职务。"
+    },
+    {
+        "en": "It is said he has secret love affairs with two women!",
+        "zh": "据说他背地里和两个女人有关系！"
+    },
+    {
+        "en": "Number 13 buses run much more frequently, don't they?",
+        "zh": "13路公共汽车开得更频繁，不是吗？"
+    },
+    {
+        "en": "They are only too delighted to accept the invitation.",
+        "zh": "他们非常乐意接受邀请。"
+    },
+    {
+        "en": "We are going to have the final examination next week.",
+        "zh": "我们下周举行期末考试。"
+    },
+    {
+        "en": "And now medical care helps to keep people alive longer.",
+        "zh": "现在医疗保健有助于延长人们的寿命。"
+    },
+    {
+        "en": "Do you think you'll be able to go to sleep right away?",
+        "zh": "你认为你能马上睡觉吗？"
+    },
+    {
+        "en": "I am in charge of the company when the manager is out.",
+        "zh": "经理不在时，我负责公司。"
+    },
+    {
+        "en": "I borrowed a notebook from Tom and I lent it to Mary.",
+        "zh": "我从汤姆那儿借了一本笔记本，我又把它借给玛丽了。"
+    },
+    {
+        "en": "I'm doing some washing and John is cooking dinner.",
+        "zh": "我正在洗衣服，约翰在做晚饭。"
+    },
+    {
+        "en": "Were there any exciting incidents during your journey?",
+        "zh": "在你的旅途中有什么激动人心的事情吗？"
+    },
+    {
+        "en": "As far as policy is concerned, I have to say something.",
+        "zh": "就政策而言，我不得不说点什么。"
+    },
+    {
+        "en": "Could you tell me what the maximum weight allowance is?",
+        "zh": "你能告诉我最大重量限额是多少吗？"
+    },
+    {
+        "en": "He came out of the library, a large book under his arm.",
+        "zh": "他夹着本厚书，走出了图书馆。"
+    },
+    {
+        "en": "The brothers differ from each other in their interests.",
+        "zh": "这几个兄弟各有所好。"
+    },
+    {
+        "en": "Although we can't see these atoms, they really do exist.",
+        "zh": "虽然我们看不见原子，但它们的确存在。"
+    },
+    {
+        "en": "I am familiar with the casual atmosphere in the company.",
+        "zh": "我对公司中这种放松的氛围感到很熟悉。"
+    },
+    {
+        "en": "Most people eat, write, and work with their right hands.",
+        "zh": "大多数人吃饭，写字，工作都用右手。"
+    },
+    {
+        "en": "Only by working hard can we succeed in doing everything.",
+        "zh": "只有努力工作，我们才能成功地做每件事。"
+    },
+    {
+        "en": "Take it easy, you will be all right in a couple of days.",
+        "zh": "别担心，你两天之内就会痊愈的。"
+    },
+    {
+        "en": "The Beatles represented part of the spirit of their age.",
+        "zh": "甲壳虫乐队代表了他们时代的部分精神。"
+    },
+    {
+        "en": "There being no one to help me, I had to do it all alone.",
+        "zh": "因为没有人帮助我，我不得不独立完成这项工作。"
+    },
+    {
+        "en": "How much clothing does it take to make a skirt for the girl?",
+        "zh": "给这个女孩做一条裙子需要多少布？"
+    },
+    {
+        "en": "With all these mouths to feed, he didn't know what to do.",
+        "zh": "由于有那么多人要供养，他不知道怎么办才好。"
+    },
+    {
+        "en": "I forgot to prepare the speech I'm supposed to give today.",
+        "zh": "我忘了准备今天的演讲稿。"
+    },
+    {
+        "en": "It's supposed to start at 6:30 sharp, but I doubt it will.",
+        "zh": "应该在6点半准时开始，但我怀疑它会。"
+    },
+    {
+        "en": "On behalf of my company, I would like to welcome you here.",
+        "zh": "我代表我的公司欢迎你来到这里。"
+    },
+    {
+        "en": "She's been quite different since coming back from America.",
+        "zh": "从美国回来之后，她变化很大。"
+    },
+    {
+        "en": "Today it is common that women and girls make up in public.",
+        "zh": "今天，在公共场所看到妇女和姑娘化妆打扮是很普遍的事。"
+    },
+    {
+        "en": "I have to transfer to no. 11 bus, but where is the bus stop?",
+        "zh": "我必须换乘11路公共汽车，但是公共汽车站在哪里？"
+    },
+    {
+        "en": "I supposed him to be very clever, but he was in fact a fool.",
+        "zh": "我以为他很聪明，但实际上他是个傻瓜。"
+    },
+    {
+        "en": "The rabbit ran to the woods and did not come back any more.",
+        "zh": "兔子跑进了森林再也没有出来了。"
+    },
+    {
+        "en": "Tom and Mary congratulated us on the birth of our daughter.",
+        "zh": "汤姆和玛丽祝贺我们女儿的出生。"
+    },
+    {
+        "en": "I can't help eating sweets whenever they are in my presence.",
+        "zh": "每当糖果在我面前时，我都忍不住要吃。"
+    },
+    {
+        "en": "I am vacuuming the floor now and have several shirts to iron.",
+        "zh": "我正在用吸尘器打扫地板，有几件衬衫要熨。"
+    },
+    {
+        "en": "I will love you until the seas run dry and the rocks crumble.",
+        "zh": "我将爱你直到海枯石烂。"
+    },
+    {
+        "en": "There is a broken small old gray stone bridge over the river.",
+        "zh": "河上有一座破旧的灰色小桥。"
+    },
+    {
+        "en": "No wonder people say that computers are taking over the world.",
+        "zh": "难怪有人说电子计算机正渐渐接管世界。"
+    },
+    {
+        "en": "The enormous increase in population will create many problems.",
+        "zh": "巨大的人口增长将产生很多问题。"
+    },
+    {
+        "en": "There's nothing better for you than plenty of water and sleep.",
+        "zh": "没有什么比充足的水和睡眠对你更好的了。"
+    },
+    {
+        "en": "You should always depend on yourself rather than someone else.",
+        "zh": "你应该永远依靠自己，而不是别人。"
+    },
+    {
+        "en": "I would like to express to all of you here our sincere welcome.",
+        "zh": "我要向在座的各位表示我们诚挚的欢迎。"
+    },
+    {
+        "en": "Many people prefer living in the country to living in the town.",
+        "zh": "许多人喜欢住在农村而不喜欢住在城市。"
+    },
+    {
+        "en": "Since I'm here, I'd like to try a typical dish of this country.",
+        "zh": "既然来了，我想吃这个国家特有的食物。"
+    },
+    {
+        "en": "Walking up and down the stairs would beat any exercise machine.",
+        "zh": "上下楼梯可比什么健身器都要好。"
+    },
+    {
+        "en": "Had it not been for the alarm clock, she wouldn't have been late.",
+        "zh": "如果不是因为闹钟不响的话，她就不会迟到了。"
+    },
+    {
+        "en": "However, if you work hard, the boss will not be fully satisfied.",
+        "zh": "无论你有多努力，老板总不会完全满意。"
+    },
+    {
+        "en": "If he had not broken his tooth, he would not be in hospital now.",
+        "zh": "如果他没有把牙齿弄坏，他现在就不会住院了。"
+    },
+    {
+        "en": "You might as well throw your money away as spend it on gambling.",
+        "zh": "你与其把钱花在赌博上，还不如把它扔掉。"
+    },
+    {
+        "en": "Can you put me in the picture of the world cup football match?",
+        "zh": "你能给我介绍一下世界杯足球赛的情况吗？"
+    },
+    {
+        "en": "I'm usually just using search engines to look up information.",
+        "zh": "我通常只是用搜索引擎找一些资料。"
+    },
+    {
+        "en": "He goes home early every day for fear that his wife would be angry.",
+        "zh": "他每天很早就回家，生怕妻子生气。"
+    },
+    {
+        "en": "I regret to inform you that we are unable to offer you employment.",
+        "zh": "我很遗憾地通知你，我们无法为你提供就业机会。"
+    },
+    {
+        "en": "I will continue my learning, though I am tired of learning English.",
+        "zh": "我会继续我的学习，虽然我厌倦了学习英语。"
+    },
+    {
+        "en": "Li Bai is one of the greatest poets that have ever lived in China.",
+        "zh": "李白是中国有史以来最伟大的诗人之一。"
+    },
+    {
+        "en": "Many people complain that computers are taking over their jobs.",
+        "zh": "许多人抱怨电脑正在接管他们的工作。"
+    },
+    {
+        "en": "The cupboards in her kitchen were full of things she did not need.",
+        "zh": "她厨房的橱柜里装满了她不需要的东西。"
+    },
+    {
+        "en": "What he said did not annoy me much, for I knew he did not mean it.",
+        "zh": "他说的话并没有使我很生气，因为我知道他不是那个意思。"
+    },
+    {
+        "en": "He asked me some personal questions, but I would never answer them.",
+        "zh": "他问了我一些私人问题，但我永远不会回答。"
+    },
+    {
+        "en": "I don't care where we go as long as we don't have to stand in line.",
+        "zh": "我不在乎我们去哪里，只要我们不必排队。"
+    },
+    {
+        "en": "She likes Mike a lot, but she doesn't want to get married so early.",
+        "zh": "她喜欢迈克，但她不想那么早就结婚。"
+    },
+    {
+        "en": "Why don't you find a job and end this dependence upon your parents?",
+        "zh": "你为什么不找份工作，结束对父母的依赖？"
+    },
+    {
+        "en": "Will you please try to find out for me what time the train arrives?",
+        "zh": "你能帮我查一下火车什么时候到吗？"
+    },
+    {
+        "en": "A good knowledge of English will improve your chances of employment.",
+        "zh": "良好的英语知识将提高你的就业机会。"
+    },
+    {
+        "en": "If she finds out you spilled ink on her coat, she'll blow her stack.",
+        "zh": "如果她发现你把墨水洒在她的上衣上，她会大发雷霆的。"
+    },
+    {
+        "en": "I would be very grateful for information about entering your college.",
+        "zh": "如能提供贵校入学信息，我将不胜感激。"
+    },
+    {
+        "en": "Mr. Smith knew Jack didn't look at the others because he was nervous.",
+        "zh": "史密斯先生知道杰克不敢看别人是因为紧张。"
+    },
+    {
+        "en": "On being introduced to somebody, a British person often shakes hands.",
+        "zh": "英国人被介绍给别人的时候常常和对方握握手。"
+    },
+    {
+        "en": "I want to take a walk along the river bank, singing my favorite songs.",
+        "zh": "我想沿着河岸散步，唱我最喜欢的歌。"
+    },
+    {
+        "en": "Many people believe that obesity results from overeating and stress.",
+        "zh": "许多人认为超重是由暴饮暴食和压力引起的。"
+    },
+    {
+        "en": "Yet all these things, different as they seem, have one thing in common.",
+        "zh": "然而，所有这些看起来不同的东西都有一个共同点。"
+    },
+    {
+        "en": "All my best memories come back clearly to me, some can even make me cry.",
+        "zh": "所有美好的回忆都清晰地浮现在我的脑海里，有些甚至让我哭泣。"
+    },
+    {
+        "en": "This is the most wonderful day of my life, because I'm here with you now.",
+        "zh": "今天是我一生中最美好的一天，因为我现在和你在一起。"
+    },
+    {
+        "en": "When I was young, I'd listen to the radio, waiting for my favorite songs.",
+        "zh": "当我年轻的时候，我会听收音机，等待我最喜欢的歌曲。"
+    },
+    {
+        "en": "I'm certain he'll go to see the film, because he's bought a ticket.",
+        "zh": "我肯定他会去看电影，因为他买了一张票。"
+    },
+    {
+        "en": "Unfortunately, you'll have to pay the fine before you check those books out.",
+        "zh": "不幸的是，在你借出那些书之前，你必须先付清罚款。"
+    },
+    {
+        "en": "Hi! You guys keep talking so loudly that I have to speak at the top of my voice!",
+        "zh": "嗨！你们一直这么大声说话，我不得不高声说话！"
+    },
+    {
+        "en": "We should not only know the theory but also how to apply it to practice.",
+        "zh": "我们不仅要知道理论，还要知道怎样把理论应用于实践。"
+    },
+    {
+        "en": "Combining exercise with a diet may be the most effective way to lose weight.",
+        "zh": "运动与节食结合也许是减肥最有效的途径。"
+    },
+    {
+        "en": "The maximum weight allowance is 60 kilos per traveler, excluding hand luggage.",
+        "zh": "每位旅客的最大重量限额为60公斤，手提行李除外。"
+    },
+    {
+        "en": "You are just putting on a little weight. I believe you'll get that off easily.",
+        "zh": "你只是稍微胖了些。很快就会恢复的。"
+    },
+    {
+        "en": "In many countries, more and more companies are replacing people with computers.",
+        "zh": "在许多国家有越来越多的公司使用电子计算机来代替人。"
+    },
+    {
+        "en": "There are mice next to the refrigerator, under the sink and inside the cupboard!",
+        "zh": "冰箱旁边、水槽下面和橱柜里面都有老鼠！"
+    }
+]
