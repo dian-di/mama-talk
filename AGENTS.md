@@ -18,6 +18,7 @@ web-template is a React + TypeScript single-page application for {application}, 
 
 ## Code Style and Structure
 
+- Avoid unnecessary secondary labels and descriptions. Let the layout do the explaining.
 - Write clear, readable, production-quality code. Do not leave features partially implemented.
 - Use functional React components with hooks.
 - Prefer the latest stable React and TypeScript features and idioms.
@@ -34,7 +35,7 @@ web-template is a React + TypeScript single-page application for {application}, 
 
 - Use shadcn/ui components from `src/components/ui/` for all standard UI primitives.
 - Use `lucide-react` for all icons.
-- Use Tailwind CSS utility classes directly; leverage `clsx` / `tailwind-merge` / `cn()` for conditional class merging.
+- Use Tailwind CSS utility classes directly; leverage `cn()` for conditional class merging.
 - shadcn/ui config lives in `components.json` at the project root.
 
 ## State Management
@@ -54,7 +55,7 @@ web-template is a React + TypeScript single-page application for {application}, 
 Formatting and linting are enforced by Biome (`biome.json` at the project root). Key settings:
 
 - **Formatter:** 2-space indent, 100-char line width, single quotes, semicolons as-needed.
-- **Tailwind class sorting:** enforced via `useSortedClasses` rule on `className`, `clsx`, `cva`, `tw`, `cn`.
+- **Tailwind class sorting:** enforced via `useSortedClasses` rule on `className`, `cn`.
 - **Linting highlights:**
   - `noUnusedVariables`: warn
   - `useExhaustiveDependencies`: off
